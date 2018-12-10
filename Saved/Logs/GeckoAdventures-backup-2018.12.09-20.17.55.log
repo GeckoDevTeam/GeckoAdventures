@@ -1,0 +1,1669 @@
+﻿Log file open, 12/09/18 19:06:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GeckoAdventures
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.259933
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.337s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 7 (Service Pack 1), CPU: AMD A10-4600M APU with Radeon(tm) HD Graphics  , GPU: AMD Radeon HD 7660G + HD 7500/7600 Dual Graphics
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.064s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2018.12.09-18.06.56:613][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.DOF.Algorithm:1]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.UsePreExposure:0]]
+[2018.12.09-18.06.56:614][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.EarlyZPassMovable:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[vr.MonoscopicFarField:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2018.12.09-18.06.56:615][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.06.56:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.12.09-18.06.56:616][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.06.56:616][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.06.56:620][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:620][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.12.09-18.06.56:620][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.12.09-18.06.56:620][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:620][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.12.09-18.06.56:620][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:620][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.09-18.06.56:620][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.12.09-18.06.56:620][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.12.09-18.06.56:620][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.12.09-18.06.56:621][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.12.09-18.06.56:622][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.12.09-18.06.56:623][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.12.09-18.06.56:623][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.12.09-18.06.56:623][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.09-18.06.56:623][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.12.09-18.06.56:623][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.12.09-18.06.56:623][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:623][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.12.09-18.06.56:623][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.12.09-18.06.56:623][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-18.06.56:623][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.09-18.06.56:663][  0]LogHAL: Display: Platform has ~ 8 GB [8020934656 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.09-18.06.56:663][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.12.09-18.06.56:663][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.09-18.06.56:663][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:663][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2018.12.09-18.06.56:663][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2018.12.09-18.06.56:663][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:663][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2018.12.09-18.06.56:663][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:663][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.12.09-18.06.56:663][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2018.12.09-18.06.56:663][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2018.12.09-18.06.56:663][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2018.12.09-18.06.56:663][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:3]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:1]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.BloomQuality:4]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:2]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2018.12.09-18.06.56:664][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:32]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.SceneColorFormat:3]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Scalability.ini]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2018.12.09-18.06.56:665][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.12.09-18.06.56:666][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.12.09-18.06.56:666][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Config/Windows/Engine.ini]
+[2018.12.09-18.06.56:666][  0]LogInit: Computer: BLACKBIRD
+[2018.12.09-18.06.56:666][  0]LogInit: User: AK
+[2018.12.09-18.06.56:666][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.09-18.06.56:666][  0]LogInit: High frequency timer resolution =2.241972 MHz
+[2018.12.09-18.06.56:667][  0]LogMemory: Memory total: Physical=7.5GB (8GB approx)
+[2018.12.09-18.06.56:667][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.09-18.06.56:667][  0]LogMemory: Process Physical Memory: 102.40 MB used, 102.40 MB peak
+[2018.12.09-18.06.56:667][  0]LogMemory: Process Virtual Memory: 94.36 MB used, 94.36 MB peak
+[2018.12.09-18.06.56:667][  0]LogMemory: Physical Memory: 2420.50 MB used,  5228.86 MB free, 7649.36 MB total
+[2018.12.09-18.06.56:667][  0]LogMemory: Virtual Memory: 486.82 MB used,  8388121.00 MB free, 8388608.00 MB total
+[2018.12.09-18.06.56:839][  0]LogInit: Using OS detected language (nb-NO).
+[2018.12.09-18.06.56:839][  0]LogInit: Using OS detected locale (nb-NO).
+[2018.12.09-18.06.56:840][  0]LogTextLocalizationManager: No localization for 'nb-NO' exists, so 'en' will be used for the language.
+[2018.12.09-18.06.57:624][  0]LogStreaming: Display: Took  0.785s to InitEngineTextLocalization.
+[2018.12.09-18.06.57:626][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.12.09-18.06.57:626][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.12.09-18.06.57:626][  0]LogInit: Setting process to DPI aware
+[2018.12.09-18.06.57:691][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.09-18.06.57:691][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.09-18.06.58:273][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-18.06.58:273][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.09-18.06.58:295][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7660G + HD 7500/7600 Dual Graphics' (Feature Level 11_0)
+[2018.12.09-18.06.58:295][  0]LogD3D11RHI:       1488/0/3568 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.12.09-18.06.58:295][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.09-18.06.58:303][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.09-18.06.58:304][  0]LogD3D11RHI:     GPU DeviceId: 0x9900 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.09-18.06.58:304][  0]LogWindows: EnumDisplayDevices:
+[2018.12.09-18.06.58:304][  0]LogWindows:    0. 'AMD Radeon HD 7660G + HD 7500/7600 Dual Graphics' (P:1 D:1)
+[2018.12.09-18.06.58:304][  0]LogWindows:    1. 'AMD Radeon HD 7660G + HD 7500/7600 Dual Graphics' (P:0 D:0)
+[2018.12.09-18.06.58:305][  0]LogWindows:    2. 'AMD Radeon HD 7660G + HD 7500/7600 Dual Graphics' (P:0 D:0)
+[2018.12.09-18.06.58:305][  0]LogWindows:    3. 'AMD Radeon HD 7660G + HD 7500/7600 Dual Graphics' (P:0 D:0)
+[2018.12.09-18.06.58:306][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.12.09-18.06.58:306][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.12.09-18.06.58:306][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.12.09-18.06.58:306][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.12.09-18.06.58:306][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7660G + HD 7500/7600 Dual Graphics
+[2018.12.09-18.06.58:306][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.12.09-18.06.58:306][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.12.09-18.06.58:307][  0]LogRHI: Texture pool is 1041 MB (70% of 1488 MB)
+[2018.12.09-18.06.58:346][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.12.09-18.06.58:361][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.09-18.06.58:380][  0]LogD3D11RHI: GPU Timing Frequency: 50.000000 (Debug: 2 1)
+[2018.12.09-18.06.59:036][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.09-18.06.59:064][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.09-18.06.59:091][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.09-18.06.59:118][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.09-18.06.59:148][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.09-18.06.59:175][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.09-18.06.59:204][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.09-18.06.59:231][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.09-18.06.59:243][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:411][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.09-18.06.59:415][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.09-18.06.59:506][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-18.06.59:506][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.09-18.06.59:559][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-18.06.59:559][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.09-18.06.59:590][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.09-18.06.59:622][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.09-18.06.59:652][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.09-18.06.59:686][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.09-18.06.59:796][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.09-18.06.59:796][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.09-18.06.59:796][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.09-18.06.59:904][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Intermediate/Shaders/WorkingDirectory/5704/).
+[2018.12.09-18.06.59:905][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/AK/AppData/Local/Temp/UnrealShaderWorkingDir/740038854BE661AE6F0E9DAB39A6C3AE/'.
+[2018.12.09-18.06.59:907][  0]LogXGEController: Cleaning working directory: C:/Users/AK/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.09-18.06.59:907][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.09-18.06.59:907][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.09-18.06.59:907][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.09-18.07.01:249][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.09-18.07.01:388][  0]LogDerivedDataCache: Loaded boot cache 0.14s 71MB C:/Users/AK/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.09-18.07.01:388][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/AK/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.12.09-18.07.01:388][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.09-18.07.01:388][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.09-18.07.01:388][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.09-18.07.01:389][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.09-18.07.01:419][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.09-18.07.01:419][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.09-18.07.01:419][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2018.12.09-18.07.01:431][  0]LogDerivedDataCache: Using Local data cache path C:/Users/AK/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.09-18.07.01:431][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.09-18.07.01:431][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.09-18.07.01:483][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.09-18.07.01:487][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.09-18.07.01:488][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.09-18.07.01:660][  0]LogAssetRegistry: FAssetRegistry took 0.0511 seconds to start up
+[2018.12.09-18.07.02:411][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.09-18.07.02:757][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.09-18.07.02:762][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.09-18.07.02:762][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.09-18.07.02:762][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.09-18.07.02:762][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.09-18.07.02:793][  0]LogNetVersion: GeckoAdventures 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 4198336653)
+[2018.12.09-18.07.03:964][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.153733 seconds
+[2018.12.09-18.07.03:976][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.12.09-18.07.03:977][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.12.09-18.07.03:977][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.09-18.07.06:052][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.09-18.07.06:067][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.09-18.07.07:840][  0]SourceControl: Source control is disabled
+[2018.12.09-18.07.07:840][  0]SourceControl: Source control is disabled
+[2018.12.09-18.07.07:845][  0]SourceControl: Source control is disabled
+[2018.12.09-18.07.07:847][  0]SourceControl: Source control is disabled
+[2018.12.09-18.07.08:119][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.09-18.07.08:208][  0]LogOcInput: OculusInput pre-init called
+[2018.12.09-18.07.08:417][  0]LogEngine: Initializing Engine...
+[2018.12.09-18.07.08:418][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.09-18.07.08:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-18.07.08:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-18.07.08:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-18.07.08:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-18.07.08:945][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.09-18.07.08:977][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.09-18.07.08:990][  0]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-18.07.09:046][  0]LogInit: FAudioDevice initialized.
+[2018.12.09-18.07.09:047][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.09-18.07.09:310][  0]LogDerivedDataCache: Saved boot cache 0.26s 71MB C:/Users/AK/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.12.09-18.07.09:311][  0]LogInit: Texture streaming: Enabled
+[2018.12.09-18.07.09:336][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.09-18.07.09:336][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={C7A974F7-45AE-2BAC-69F3-8A87E5111591}
+[2018.12.09-18.07.09:349][  0]LogInit: Transaction tracking system initialized
+[2018.12.09-18.07.09:378][  0]BlueprintLog: New page: Editor Load
+[2018.12.09-18.07.09:482][  0]LocalizationService: Localization service is disabled
+[2018.12.09-18.07.11:316][  0]LogFileCache: Scanning file cache for directory 'C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/' took 0.01s
+[2018.12.09-18.07.11:316][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.09-18.07.11:316][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.09-18.07.11:316][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.09-18.07.11:316][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.09-18.07.11:316][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.09-18.07.11:316][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.09-18.07.11:316][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.09-18.07.11:561][  0]SourceControl: Source control is disabled
+[2018.12.09-18.07.11:561][  0]Cmd: MAP LOAD FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.09-18.07.11:562][  0]LightingResults: New page: Lighting Build
+[2018.12.09-18.07.11:565][  0]MapCheck: New page: Map Check
+[2018.12.09-18.07.11:565][  0]LightingResults: New page: Lighting Build
+[2018.12.09-18.07.14:112][  0]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-18.07.14:130][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.09-18.07.14:225][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.09-18.07.14:226][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,329ms to complete.
+[2018.12.09-18.07.14:226][  0]LogFileHelpers: Loading map 'Level1' took 2.665
+[2018.12.09-18.07.14:346][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.07.14:363][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.07.14:379][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.07.14:395][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.07.14:404][  0]LogCollectionManager: Loaded 0 collections in 0.001507 seconds
+[2018.12.09-18.07.14:445][  0]LogFileCache: Scanning file cache for directory 'C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Collections/' took 0.01s
+[2018.12.09-18.07.14:445][  0]LogFileCache: Scanning file cache for directory 'C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/Developers/AK/Collections/' took 0.01s
+[2018.12.09-18.07.14:445][  0]LogFileCache: Scanning file cache for directory 'C:/Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/Collections/' took 0.01s
+[2018.12.09-18.07.14:445][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.12.09-18.07.14:466][  0]LogContentBrowser: Native class hierarchy populated in 0.0205 seconds. Added 2651 classes and 620 folders.
+[2018.12.09-18.07.14:474][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.09-18.07.14:478][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:479][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:481][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:482][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:484][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:485][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:486][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:488][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:489][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:490][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:493][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:495][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:496][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:497][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:498][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:499][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:500][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:501][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:503][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:505][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:506][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.12.09-18.07.14:560][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.09-18.07.14:579][  0]LogSlate: Took 0.000519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.09-18.07.14:583][  0]LogSlate: Took 0.000551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.09-18.07.14:593][  0]LogSlate: Took 0.000603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.09-18.07.14:759][  0]LogRenderer: Reallocating scene render targets to support 768x380 Format 9 NumSamples 1 (Frame:1).
+[2018.12.09-18.07.15:205][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.12.09-18.07.15:205][  0]LogLoad: (Engine Initialization) Total time: 22.06 seconds
+[2018.12.09-18.07.15:205][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.09-18.07.15:316][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.12.09-18.07.15:344][  0]LogSlate: Took 0.000507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-18.07.15:439][  2]LogAssetRegistry: Asset discovery search completed in 13.7991 seconds
+[2018.12.09-18.07.15:442][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.09-18.07.15:442][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000087 seconds (updated 0 objects)
+[2018.12.09-18.07.24:556][540]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-18.07.24:832][554]LogSlate: Took 0.000366 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.09-18.07.24:846][554]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Main/GeckoGame.GeckoGame
+[2018.12.09-18.07.25:860][554]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 117 classes and 0 folders.
+[2018.12.09-18.07.35:493][ 52]LogSlate: Window 'GeckoGame' being destroyed
+[2018.12.09-18.07.35:605][ 52]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Main/GeckoGame.GeckoGame
+[2018.12.09-18.07.36:249][ 52]LogSlate: Took 0.000635 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.09-18.07.55:370][927]LogSlate: Window 'GeckoGame' being destroyed
+[2018.12.09-18.08.14:380][133]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2018.12.09-18.08.27:517][509]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/gecko/GeckoPlayer.GeckoPlayer
+[2018.12.09-18.08.28:509][510]LogSlate: Took 0.001295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.09-18.08.32:474][684]LogSlate: Window 'GeckoPlayer' being destroyed
+[2018.12.09-18.08.41:419][ 87]LogMetaData: Removing '/Game/gecko/GeckoPlayerBP.GeckoPlayerBP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/gecko/GeckoPlayer.PackageMetaData'
+[2018.12.09-18.08.41:419][ 87]LogMetaData: Removing '/Game/gecko/GeckoPlayerBP.GeckoPlayerBP_C' ref from Metadata '/Game/gecko/GeckoPlayer.PackageMetaData'
+[2018.12.09-18.08.41:420][ 87]LogMetaData: Removing '/Game/gecko/GeckoPlayerBP.GeckoPlayerBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/gecko/GeckoPlayer.PackageMetaData'
+[2018.12.09-18.08.41:420][ 87]LogMetaData: Removing '/Game/gecko/GeckoPlayerBP.GeckoPlayerBP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/gecko/GeckoPlayer.PackageMetaData'
+[2018.12.09-18.08.41:420][ 87]LogMetaData: Removing '/Game/gecko/GeckoPlayerBP.GeckoPlayerBP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/gecko/GeckoPlayer.PackageMetaData'
+[2018.12.09-18.08.41:420][ 87]LogMetaData: Removing '/Game/gecko/GeckoPlayerBP.SKEL_GeckoPlayerBP_C' ref from Metadata '/Game/gecko/GeckoPlayer.PackageMetaData'
+[2018.12.09-18.08.41:696][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-18.08.41:770][ 87]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBP2430809647F6F0F77690F9A348899363.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-18.08.41:778][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayer" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayer.uasset" SILENT=true
+[2018.12.09-18.08.41:916][ 87]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerB29EB14F4BD15A2E4E46698921B8E72F.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayer.uasset'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP_C' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.GeckosState.AnimStateEntryNode_0' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.GeckosState.AnimStateNode_0.Idle_Walk_run.AnimGraphNode_StateResult_0' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.GeckosState.AnimStateNode_1.Jump.AnimGraphNode_StateResult_0' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.GeckosState.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.GeckosState.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.GeckosState.AnimStateNode_2.Death.AnimGraphNode_StateResult_0' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.GeckosState.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.GeckosState.AnimStateTransitionNode_3.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.GeckoAnimBP:AnimGraph.AnimGraphNode_StateMachine_0.GeckosState.AnimStateNode_3.WIN.AnimGraphNode_StateResult_0' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:605][677]LogMetaData: Removing '/Game/gecko/GeckoAnimBP.SKEL_GeckoAnimBP_C' ref from Metadata '/Game/gecko/GeckoAnimBlueprint.PackageMetaData'
+[2018.12.09-18.08.56:892][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoAnimBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoAnimBP.uasset" SILENT=true
+[2018.12.09-18.08.56:984][677]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoAnimBP6C5D035049B2C9BBF13451BFD452CC6F.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoAnimBP.uasset'
+[2018.12.09-18.08.57:442][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-18.08.57:520][677]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBPBCF14DFD4E495D30A9FE6994553A5AB8.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-18.09.10:110][134]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-18.09.10:153][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.09.10:153][134]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.09-18.09.10:166][134]LogPlayLevel: [PlayLevel] Compiling GeckoPlayerBP before play...
+[2018.12.09-18.09.10:645][134]LogPlayLevel: PlayLevel: Blueprint regeneration took 492 ms (1 blueprints)
+[2018.12.09-18.09.10:646][134]PIE: New page: PIE session: Level1 (9. des. 2018, 20.09.10)
+[2018.12.09-18.09.10:659][134]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-18.09.10:692][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032606s)
+[2018.12.09-18.09.10:693][134]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-18.09.10:693][134]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2018.12.09-18.09.10:693][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.034132s)
+[2018.12.09-18.09.10:787][134]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-18.09.10:804][134]LogInit: FAudioDevice initialized.
+[2018.12.09-18.09.10:850][134]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-18.09.10:855][134]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-19.09.10
+[2018.12.09-18.09.10:857][134]LogWorld: Bringing up level for play took: 0.004899
+[2018.12.09-18.09.10:874][134]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2018.12.09-18.09.10:878][134]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 1,171
+[2018.12.09-18.09.10:879][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.09.33:922][256]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.09.33:923][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.09.33:970][256]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-18.09.33:971][256]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.09.34:075][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.09.34:105][257]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.09-18.09.40:284][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-18.09.40:294][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.09-18.09.40:830][524]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Level11D825D2A4EAEE0F7A9753AA3800DFF91.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap'
+[2018.12.09-18.09.40:888][524]LogFileHelpers: Saving map 'Level1' took 0.595
+[2018.12.09-18.09.40:894][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/GeckoGame" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/Main/GeckoGame.uasset" SILENT=true
+[2018.12.09-18.09.40:922][524]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoGame24BFAAA44951D903EBC16FBCFC06FA8A.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/Main/GeckoGame.uasset'
+[2018.12.09-18.09.49:637][680]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.12.09-18.09.49:787][681]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GeckoAdventures
+[2018.12.09-18.09.49:787][681]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.09-18.09.49:787][681]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.21
+[2018.12.09-18.09.49:787][681]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.12.09-18.09.49:787][681]LogTemp: BranchPath = BLACKBIRD/C/Program Files/Epic Games/UE_4.21/Engine/Binaries --- GameBranchPath = BLACKBIRD/C/Program Files/Epic Games/UE_4.21/Engine/Binaries
+[2018.12.09-18.09.49:787][681]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\AK\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.12.09-18.12.43:838][402]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.09-18.12.43:860][402]LogSlate: Window 'Project Settings' being destroyed
+[2018.12.09-18.12.51:515][720]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/gecko/GeckoPlayerBP.GeckoPlayerBP
+[2018.12.09-18.13.52:219][329]LogRenderer: Reallocating scene render targets to support 964x472 Format 9 NumSamples 1 (Frame:1).
+[2018.12.09-18.14.01:920][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-18.55.52:707][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-18.55.53:620][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-18.55.53:930][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-18.56.23:599][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-18.57.31:451][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-18.57.31:568][214]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBP450330CE492655D8AA437782B7E54D1C.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-18.57.32:494][236]BlueprintLog: New page: Compile GeckoPlayerBP
+[2018.12.09-18.57.35:830][301]LogRenderer: Reallocating scene render targets to support 964x488 Format 9 NumSamples 1 (Frame:54960).
+[2018.12.09-18.57.40:647][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-18.57.42:785][508]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-18.57.42:832][508]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.57.42:832][508]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-18.57.42:832][508]PIE: New page: PIE session: Level1 (9. des. 2018, 20.57.42)
+[2018.12.09-18.57.42:832][508]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-18.57.42:876][508]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043959s)
+[2018.12.09-18.57.42:877][508]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-18.57.42:878][508]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2018.12.09-18.57.42:878][508]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.045370s)
+[2018.12.09-18.57.42:995][508]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-18.57.43:013][508]LogInit: FAudioDevice initialized.
+[2018.12.09-18.57.43:049][508]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-18.57.43:055][508]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-19.57.43
+[2018.12.09-18.57.43:058][508]LogWorld: Bringing up level for play took: 0.007911
+[2018.12.09-18.57.43:075][508]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 −0,72
+[2018.12.09-18.57.43:095][508]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.57.56:200][513]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.57.56:273][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.57.56:315][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-18.57.56:315][513]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.57.56:406][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.57.56:438][514]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2018.12.09-18.57.58:747][648]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-18.58.06:411][ 67]LogEditorViewport: Clicking on Actor (LMB): GeckoPlayerBP_C (GeckoPlayer)
+[2018.12.09-18.58.07:951][110]Cmd: DELETE
+[2018.12.09-18.58.07:952][110]Cmd: ACTOR DELETE
+[2018.12.09-18.58.07:978][110]LogEditorActor: Deleted Actor: GeckoPlayerBP_C
+[2018.12.09-18.58.08:093][110]LogEditorActor: Deleted 1 Actors (0.141 secs)
+[2018.12.09-18.58.10:140][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-18.58.10:238][214]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-18.58.10:283][214]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.58.10:284][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-18.58.10:284][214]PIE: New page: PIE session: Level1 (9. des. 2018, 20.58.10)
+[2018.12.09-18.58.10:284][214]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-18.58.10:328][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043904s)
+[2018.12.09-18.58.10:329][214]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-18.58.10:329][214]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2018.12.09-18.58.10:329][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.045167s)
+[2018.12.09-18.58.10:433][214]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-18.58.10:451][214]LogInit: FAudioDevice initialized.
+[2018.12.09-18.58.10:483][214]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-18.58.10:487][214]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-19.58.10
+[2018.12.09-18.58.10:488][214]LogWorld: Bringing up level for play took: 0.003421
+[2018.12.09-18.58.10:507][214]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 0,711
+[2018.12.09-18.58.10:507][214]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.58.41:370][ 79]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.58.41:370][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.58.41:416][ 79]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-18.58.41:416][ 79]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-18.58.41:506][ 79]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-18.58.41:534][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2018.12.09-18.58.45:423][254]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-18.58.49:004][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-18.59.34:430][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-18.59.34:549][489]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBPFE13848A44F782B642681FBC0EB9F581.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-18.59.43:178][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-18.59.58:299][107]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.12.09-19.02.01:683][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-19.02.01:805][503]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBPED8DF3F1450C4F5AAF06B4B393467695.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-19.02.02:056][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.02.02:194][512]BlueprintLog: New page: Compile GeckoPlayerBP
+[2018.12.09-19.02.04:402][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-19.02.04:487][547]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBP17710564408A3ADD1BB680AF066F4A3C.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-19.02.06:246][595]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.02.08:650][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.02.08:740][709]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-19.02.08:784][709]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.02.08:784][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-19.02.08:785][709]PIE: New page: PIE session: Level1 (9. des. 2018, 21.02.08)
+[2018.12.09-19.02.08:785][709]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-19.02.08:831][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045507s)
+[2018.12.09-19.02.08:831][709]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-19.02.08:832][709]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2018.12.09-19.02.08:832][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.046682s)
+[2018.12.09-19.02.08:935][709]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-19.02.08:956][709]LogInit: FAudioDevice initialized.
+[2018.12.09-19.02.08:991][709]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-19.02.08:997][709]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-20.02.08
+[2018.12.09-19.02.08:998][709]LogWorld: Bringing up level for play took: 0.004906
+[2018.12.09-19.02.09:016][709]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 1,212
+[2018.12.09-19.02.09:016][709]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.02.42:760][861]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.02.42:760][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.02.42:808][861]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-19.02.42:808][861]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.02.42:895][861]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.02.42:925][862]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.12.09-19.02.46:344][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-19.02.53:237][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-19.02.53:331][166]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBPF542A8B3473CEE57A8A4399F7192E537.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-19.02.53:610][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.02.53:706][174]BlueprintLog: New page: Compile GeckoPlayerBP
+[2018.12.09-19.02.54:948][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-19.02.55:028][187]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBP8D7FBCAC4B67CB1E4FE8279A310F9D7E.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-19.03.33:566][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.04.12:424][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.04.12:661][306]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-19.04.12:769][306]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBPA894000F40BC0FFC919822BACFBC23F9.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-19.04.13:771][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.04.13:868][334]BlueprintLog: New page: Compile GeckoPlayerBP
+[2018.12.09-19.04.56:535][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-19.04.56:616][479]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBPF44722C845521871D0BD1EB34404DE36.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-19.04.57:338][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.04.57:468][501]BlueprintLog: New page: Compile GeckoPlayerBP
+[2018.12.09-19.05.03:471][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.05.03:568][678]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-19.05.03:614][678]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.05.03:614][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-19.05.03:614][678]PIE: New page: PIE session: Level1 (9. des. 2018, 21.05.03)
+[2018.12.09-19.05.03:614][678]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-19.05.03:662][678]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047151s)
+[2018.12.09-19.05.03:663][678]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-19.05.03:663][678]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2018.12.09-19.05.03:663][678]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.048661s)
+[2018.12.09-19.05.03:768][678]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-19.05.03:786][678]LogInit: FAudioDevice initialized.
+[2018.12.09-19.05.03:820][678]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-19.05.03:823][678]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-20.05.03
+[2018.12.09-19.05.03:823][678]LogWorld: Bringing up level for play took: 0.002207
+[2018.12.09-19.05.03:841][678]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 0,033
+[2018.12.09-19.05.03:842][678]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.06.06:058][440]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.06.06:059][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.06.06:098][440]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-19.06.06:098][440]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.06.06:179][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.06.06:210][441]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.12.09-19.06.32:803][640]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Level1_Auto11C51958D464557EE319155A3314459DC.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Autosaves/Game/levels/Level1_Auto1.umap'
+[2018.12.09-19.06.32:806][640]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/Level1' took 0.545
+[2018.12.09-19.06.32:807][640]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.545
+[2018.12.09-19.06.37:554][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-19.06.40:247][730]LogSlate: Window 'GeckoPlayerBP' being destroyed
+[2018.12.09-19.06.42:454][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-19.06.42:465][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.09-19.06.42:939][858]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Level17664662B4EC1C7D159060480CF4CE2EB.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap'
+[2018.12.09-19.06.42:992][858]LogFileHelpers: Saving map 'Level1' took 0.527
+[2018.12.09-19.06.49:949][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.07.06:522][932]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/gems/blueprintstargem.blueprintstargem
+[2018.12.09-19.25.04:754][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gems/blueprintstargem" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gems/blueprintstargem.uasset" SILENT=true
+[2018.12.09-19.25.04:943][557]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/blueprintstargem12AD5EF44D5FD31C90CF109524645523.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gems/blueprintstargem.uasset'
+[2018.12.09-19.25.06:465][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.25.06:557][625]LogSlate: Window 'blueprintstargem' being destroyed
+[2018.12.09-19.25.06:579][625]LogSlate: Window 'blueprintstargem' being destroyed
+[2018.12.09-19.25.11:351][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.26.19:392][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.26.19:606][126]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/gems/blueprintstargem.blueprintstargem
+[2018.12.09-19.28.12:129][590]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/Level1' took 0.109
+[2018.12.09-19.28.12:133][590]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/gems/blueprintstargem] ([1] browsable assets)...
+[2018.12.09-19.28.12:175][590]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/gems/blueprintstargem.blueprintstargem]
+[2018.12.09-19.28.12:175][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/gems/blueprintstargem]
+[2018.12.09-19.28.12:334][590]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/blueprintstargem_Auto2177C667148709802312591AA03A61BBF.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Autosaves/Game/gems/blueprintstargem_Auto2.uasset'
+[2018.12.09-19.28.12:336][590]LogFileHelpers: Auto-saving content packages took 0.204
+[2018.12.09-19.28.14:345][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.29.10:235][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gems/blueprintstargem" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gems/blueprintstargem.uasset" SILENT=true
+[2018.12.09-19.29.10:383][439]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/blueprintstargemB3F429A54D3BD211EB52FAA177A38751.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gems/blueprintstargem.uasset'
+[2018.12.09-19.29.10:816][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.29.10:928][455]BlueprintLog: New page: Compile blueprintstargem
+[2018.12.09-19.29.17:936][720]LogSlate: Window 'blueprintstargem' being destroyed
+[2018.12.09-19.29.17:958][720]LogSlate: Window 'blueprintstargem' being destroyed
+[2018.12.09-19.29.20:218][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.29.20:327][815]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-19.29.20:376][815]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.29.20:376][815]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-19.29.20:377][815]PIE: New page: PIE session: Level1 (9. des. 2018, 21.29.20)
+[2018.12.09-19.29.20:377][815]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-19.29.20:424][815]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047249s)
+[2018.12.09-19.29.20:425][815]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-19.29.20:425][815]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2018.12.09-19.29.20:426][815]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.048736s)
+[2018.12.09-19.29.20:526][815]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-19.29.20:547][815]LogInit: FAudioDevice initialized.
+[2018.12.09-19.29.20:578][815]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-19.29.20:581][815]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-20.29.20
+[2018.12.09-19.29.20:581][815]LogWorld: Bringing up level for play took: 0.002203
+[2018.12.09-19.29.20:597][815]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 0,745
+[2018.12.09-19.29.20:597][815]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.29.28:669][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.29.28:669][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.29.28:716][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-19.29.28:717][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.29.28:796][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.29.28:829][515]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.09-19.29.36:345][910]LogEditorViewport: Clicking on Actor (LMB): blueprintstargem_C (blueprintstargem)
+[2018.12.09-19.29.41:838][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.30.16:528][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.09-19.30.18:103][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.33.46:954][677]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\AK\Desktop\ping.wav)
+[2018.12.09-19.33.54:640][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/sounds/ping" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/sounds/ping.uasset" SILENT=true
+[2018.12.09-19.33.54:649][191]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/ping4C5B3D5A4B49D1C1B4ABB38136CD73FE.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/sounds/ping.uasset'
+[2018.12.09-19.34.06:818][809]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/gems/blueprintstargem.blueprintstargem
+[2018.12.09-19.34.13:494][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gems/blueprintstargem" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gems/blueprintstargem.uasset" SILENT=true
+[2018.12.09-19.34.13:641][  0]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/blueprintstargem3D37389A4DA292AB80C1CC81974E8C0C.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gems/blueprintstargem.uasset'
+[2018.12.09-19.34.14:317][ 19]BlueprintLog: New page: Compile blueprintstargem
+[2018.12.09-19.34.16:812][ 77]LogSlate: Window 'blueprintstargem' being destroyed
+[2018.12.09-19.34.19:201][178]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-19.34.19:237][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.34.19:237][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-19.34.19:237][178]PIE: New page: PIE session: Level1 (9. des. 2018, 21.34.19)
+[2018.12.09-19.34.19:237][178]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-19.34.19:269][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031550s)
+[2018.12.09-19.34.19:270][178]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-19.34.19:270][178]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2018.12.09-19.34.19:270][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.032840s)
+[2018.12.09-19.34.19:353][178]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-19.34.19:368][178]LogInit: FAudioDevice initialized.
+[2018.12.09-19.34.19:399][178]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-19.34.19:402][178]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-20.34.19
+[2018.12.09-19.34.19:402][178]LogWorld: Bringing up level for play took: 0.002271
+[2018.12.09-19.34.19:418][178]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 −0,444
+[2018.12.09-19.34.19:418][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.34.23:220][541]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave ping...
+[2018.12.09-19.34.23:334][541]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 23092 while cooking SoundWave /Game/sounds/ping.ping.
+[2018.12.09-19.34.53:119][919]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.34.53:120][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.34.53:170][919]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-19.34.53:170][919]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.34.53:330][919]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.34.53:368][920]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.12.09-19.34.57:941][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-19.34.57:951][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.09-19.34.58:588][184]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Level155DCDDB1481F69B853E9C3B99B54D278.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap'
+[2018.12.09-19.34.58:638][184]LogFileHelpers: Saving map 'Level1' took 0.689
+[2018.12.09-19.44.03:051][725]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/gecko/GeckoPlayerBP.GeckoPlayerBP
+[2018.12.09-19.46.03:103][299]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/Level1' took 0.093
+[2018.12.09-19.46.03:105][299]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/gecko/GeckoPlayerBP] ([1] browsable assets)...
+[2018.12.09-19.46.03:141][299]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/gecko/GeckoPlayerBP.GeckoPlayerBP]
+[2018.12.09-19.46.03:141][299]OBJ SavePackage: Finished generating thumbnails for package [/Game/gecko/GeckoPlayerBP]
+[2018.12.09-19.46.03:312][299]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBP_Auto3ACE1382B45DA12450557E7A8E8741144.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Autosaves/Game/gecko/GeckoPlayerBP_Auto3.uasset'
+[2018.12.09-19.46.03:328][299]LogFileHelpers: Auto-saving content packages took 0.224
+[2018.12.09-19.47.35:469][834]LogSlate: Took 0.020174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.12.09-19.52.52:136][704]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-19.52.52:288][704]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBP5A5F80F342F62F5147F763BF5D330894.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-19.54.44:295][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gecko/GeckoPlayerBP" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset" SILENT=true
+[2018.12.09-19.54.44:401][627]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/GeckoPlayerBP66CB5BD74DD0BBB10467178549DEAA6F.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/gecko/GeckoPlayerBP.uasset'
+[2018.12.09-19.54.44:901][642]BlueprintLog: New page: Compile GeckoPlayerBP
+[2018.12.09-19.54.50:997][814]LogSlate: Window 'GeckoPlayerBP' being destroyed
+[2018.12.09-19.55.02:063][384]LogEditorViewport: Clicking on Actor (LMB): blueprintstargem_C (blueprintstargem)
+[2018.12.09-19.55.32:461][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.55.40:014][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.55.50:075][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.55.56:689][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.56.03:763][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-19.56.03:772][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.09-19.56.04:327][344]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Level15E0BD0E2443FCC0807D0028D81DCCE68.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap'
+[2018.12.09-19.56.04:384][344]LogFileHelpers: Saving map 'Level1' took 0.613
+[2018.12.09-19.56.05:658][401]MapCheck: New page: Map Check
+[2018.12.09-19.56.05:695][401]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.09-19.56.05:695][401]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.09-19.56.06:329][401]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy grass_Mat, compiling. 
+[2018.12.09-19.56.06:383][401]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.09-19.56.06:383][401]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.12.09-19.56.06:462][401]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.09-19.56.06:462][401]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy brick_Mat, compiling. 
+[2018.12.09-19.56.06:483][401]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.09-19.56.06:483][401]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Chipped_Red_Bricks_Mat, compiling. 
+[2018.12.09-19.56.06:504][401]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy stargemtex_Mat, compiling. 
+[2018.12.09-19.56.07:760][401]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.09-19.56.07:760][401]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.09-19.56.07:760][401]TextureStreamingBuild: Display: Compiling optional shaders took 1.446 seconds.
+[2018.12.09-19.56.07:821][401]LogLevel: Display: Export Material TexCoord Scales took 0.061 seconds.
+[2018.12.09-19.56.07:862][401]TextureStreamingBuild: Display: Build Texture Streaming took 0.040 seconds.
+[2018.12.09-19.56.07:971][401]LightingResults: New page: Lighting Build - 9. des. 2018, 21.56.07
+[2018.12.09-19.56.08:599][401]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.09-19.56.08:840][401]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.09-19.56.09:523][401]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.09-19.56.12:747][401]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.12.09-19.56.13:013][401]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): Kan ikke koble til fordi målmaskinen avslo tilkobling 127.0.0.1:8008
+
+Server stack trace: 
+   ved System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   ved System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   ved System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   ved System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   ved System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   ved System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   ved System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   ved System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   ved System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   ved NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   ved NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) i D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:linje 2811
+[2018.12.09-19.56.18:198][401]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.09-19.56.18:198][401]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5704
+[2018.12.09-19.56.23:634][401]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.09-19.56.23:644][401]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.09-19.56.23:644][401]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.09-19.56.23:644][401]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.09-19.56.23:644][401]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.09-19.56.23:644][401]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.09-19.56.24:551][401]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.09-19.56.24:551][401]MapCheck: New page: Level1 - 9. des. 2018, 21.56.24
+[2018.12.09-19.56.24:658][401]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 106,771ms to complete.
+[2018.12.09-19.56.24:680][401]LogEditorBuildUtils: Build time 0:18
+[2018.12.09-19.56.33:325][514]Job is a success!
+[2018.12.09-19.56.33:554][516]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.035s
+[2018.12.09-19.56.33:554][516]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.09-19.56.33:554][516]LogVolumetricLightmapImport:      BrickData 345x5x5 = 0.3Mb
+[2018.12.09-19.56.33:554][516]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.09-19.56.33:554][516]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2018.12.09-19.56.33:554][516]LogVolumetricLightmapImport:          1: 5.8% covering 6.3% of volume
+[2018.12.09-19.56.33:554][516]LogVolumetricLightmapImport:          2: 92.8% covering 1.6% of volume
+[2018.12.09-19.56.34:046][516]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.12.09-19.56.34:046][516]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.12.09-19.56.34:046][516]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2018.12.09-19.56.34:046][516]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2018.12.09-19.56.34:147][516]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 128X128)
+[2018.12.09-19.56.34:147][516]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X256)
+[2018.12.09-19.56.34:680][516]Lightmass on BLACKBIRD: 4.56 sec total, 420 ms importing, 29 ms setup, 656 ms photons, 3.37 sec processing, 0 ms extra exporting [245/245 mappings]. Threads: 13.4 sec total, 2.55 sec processing.
+[2018.12.09-19.56.34:825][516]LogStaticLightingSystem: Illumination: 26.7 sec (301 ms encoding lightmaps, 90 ms encoding shadowmaps)
+[2018.12.09-19.56.34:825][516]LogStaticLightingSystem: Lightmap texture memory:  0.6 MB (0.1 MB streaming, 0.5 MB non-streaming), 4 textures
+[2018.12.09-19.56.34:825][516]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 2 textures
+[2018.12.09-19.56.35:626][516]DumpUnbuiltLightIteractions
+[2018.12.09-19.56.35:626][516]Lights with unbuilt interactions: 0
+[2018.12.09-19.56.35:626][516]
+[2018.12.09-19.56.35:626][516]Primitives with unbuilt interactions: 0
+[2018.12.09-19.56.35:862][517]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.09-19.56.35:862][517]MapCheck: New page: Level1 - 9. des. 2018, 21.56.35
+[2018.12.09-19.56.35:864][517]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,926ms to complete.
+[2018.12.09-19.56.39:318][617]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-19.56.39:358][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.56.39:359][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-19.56.39:359][617]PIE: New page: PIE session: Level1 (9. des. 2018, 21.56.39)
+[2018.12.09-19.56.39:359][617]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-19.56.39:395][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035380s)
+[2018.12.09-19.56.39:395][617]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-19.56.39:396][617]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2018.12.09-19.56.39:396][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.036635s)
+[2018.12.09-19.56.39:470][617]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-19.56.39:485][617]LogInit: FAudioDevice initialized.
+[2018.12.09-19.56.39:521][617]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-19.56.39:524][617]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-20.56.39
+[2018.12.09-19.56.39:524][617]LogWorld: Bringing up level for play took: 0.002479
+[2018.12.09-19.56.39:540][617]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 −0,362
+[2018.12.09-19.56.39:540][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.56.42:259][878]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 1
+[2018.12.09-19.56.43:503][  9]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 2
+[2018.12.09-19.56.44:517][113]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 3
+[2018.12.09-19.56.45:679][231]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 4
+[2018.12.09-19.56.46:528][318]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 5
+[2018.12.09-19.56.56:726][374]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.56.56:726][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.56.56:771][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-19.56.56:771][374]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.56.56:853][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.56.56:880][375]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.09-19.57.00:292][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.57.00:390][570]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-19.57.00:437][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.57.00:437][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-19.57.00:437][570]PIE: New page: PIE session: Level1 (9. des. 2018, 21.57.00)
+[2018.12.09-19.57.00:437][570]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-19.57.00:482][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044368s)
+[2018.12.09-19.57.00:483][570]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-19.57.00:483][570]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2018.12.09-19.57.00:483][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.045662s)
+[2018.12.09-19.57.00:585][570]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-19.57.00:601][570]LogInit: FAudioDevice initialized.
+[2018.12.09-19.57.00:636][570]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-19.57.00:640][570]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-20.57.00
+[2018.12.09-19.57.00:641][570]LogWorld: Bringing up level for play took: 0.003531
+[2018.12.09-19.57.00:658][570]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 0,755
+[2018.12.09-19.57.00:658][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.57.08:448][277]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 1
+[2018.12.09-19.57.11:960][584]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 2
+[2018.12.09-19.57.13:062][688]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 3
+[2018.12.09-19.57.14:684][841]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 4
+[2018.12.09-19.57.15:416][911]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (50.708 sec). This should never happen. Something is wrong with the timer delegate!
+[2018.12.09-19.57.15:980][966]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 5
+[2018.12.09-19.58.09:203][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.58.09:203][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.58.09:249][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-19.58.09:249][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.58.09:340][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.58.09:367][251]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.12.09-19.58.10:862][329]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-19.58.42:875][972]Cmd: SELECT NONE
+[2018.12.09-19.58.44:533][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-19.58.44:630][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-19.58.44:671][ 58]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.58.44:671][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-19.58.44:671][ 58]PIE: New page: PIE session: Level1 (9. des. 2018, 21.58.44)
+[2018.12.09-19.58.44:671][ 58]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-19.58.44:727][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056100s)
+[2018.12.09-19.58.44:728][ 58]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-19.58.44:729][ 58]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2018.12.09-19.58.44:729][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.057846s)
+[2018.12.09-19.58.44:827][ 58]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-19.58.44:845][ 58]LogInit: FAudioDevice initialized.
+[2018.12.09-19.58.44:882][ 58]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-19.58.44:885][ 58]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-20.58.44
+[2018.12.09-19.58.44:886][ 58]LogWorld: Bringing up level for play took: 0.003220
+[2018.12.09-19.58.44:903][ 58]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 0,996
+[2018.12.09-19.58.44:903][ 58]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.58.48:132][335]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 1
+[2018.12.09-19.58.49:666][471]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 2
+[2018.12.09-19.58.50:296][527]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 3
+[2018.12.09-19.58.51:236][614]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 4
+[2018.12.09-19.58.55:019][967]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 5
+[2018.12.09-19.59.03:661][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.59.03:661][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.59.03:705][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-19.59.03:705][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-19.59.03:808][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-19.59.03:837][783]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2018.12.09-19.59.15:608][363]Cmd: SELECT NONE
+[2018.12.09-19.59.22:596][704]Cmd: SELECT NONE
+[2018.12.09-19.59.26:273][876]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2018.12.09-19.59.29:233][ 24]Cmd: TRANSACTION UNDO
+[2018.12.09-19.59.29:233][ 24]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.09-19.59.45:789][762]Cmd: SELECT NONE
+[2018.12.09-19.59.52:968][146]Cmd: SELECT NONE
+[2018.12.09-20.00.02:991][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-20.00.15:758][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-20.00.19:661][184]Cmd: SELECT NONE
+[2018.12.09-20.00.25:980][477]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.00.28:199][551]Cmd: DUPLICATE
+[2018.12.09-20.00.28:199][551]Cmd: ACTOR DUPLICATE
+[2018.12.09-20.00.56:142][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.00.58:658][956]Cmd: DUPLICATE
+[2018.12.09-20.00.58:659][956]Cmd: ACTOR DUPLICATE
+[2018.12.09-20.01.23:065][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.01.24:707][127]Cmd: DUPLICATE
+[2018.12.09-20.01.24:707][127]Cmd: ACTOR DUPLICATE
+[2018.12.09-20.02.00:376][851]Cmd: SELECT NONE
+[2018.12.09-20.02.04:180][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.02.04:191][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.09-20.02.05:125][ 49]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Level1C55AEF0E45EF1BDF8527069559436637.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap'
+[2018.12.09-20.02.05:190][ 49]LogFileHelpers: Saving map 'Level1' took 1.000
+[2018.12.09-20.02.05:195][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1_BuiltData" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1_BuiltData.uasset" SILENT=true
+[2018.12.09-20.02.05:277][ 49]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Level1_BuiltData46A8831C477F1A1204C413AE9248A5B2.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1_BuiltData.uasset'
+[2018.12.09-20.02.06:742][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-20.02.06:881][125]MapCheck: New page: Map Check
+[2018.12.09-20.02.06:925][125]Cmd: MAP REBUILD ALLVISIBLE
+[2018.12.09-20.02.06:925][125]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.12.09-20.02.07:412][125]LogEditorServer: Cleared 1 NULL BSP materials after rebuild.
+[2018.12.09-20.02.07:542][125]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy grass_Mat, compiling. 
+[2018.12.09-20.02.07:557][125]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.12.09-20.02.07:575][125]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.09-20.02.07:575][125]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.09-20.02.07:575][125]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy brick_Mat, compiling. 
+[2018.12.09-20.02.07:599][125]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.09-20.02.07:599][125]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Chipped_Red_Bricks_Mat, compiling. 
+[2018.12.09-20.02.07:623][125]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy stargemtex_Mat, compiling. 
+[2018.12.09-20.02.08:798][125]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.09-20.02.08:798][125]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.09-20.02.08:798][125]TextureStreamingBuild: Display: Compiling optional shaders took 1.264 seconds.
+[2018.12.09-20.02.08:822][125]LogLevel: Display: Export Material TexCoord Scales took 0.024 seconds.
+[2018.12.09-20.02.08:850][125]TextureStreamingBuild: Display: Build Texture Streaming took 0.027 seconds.
+[2018.12.09-20.02.08:927][125]LightingResults: New page: Lighting Build - 9. des. 2018, 22.02.08
+[2018.12.09-20.02.08:945][125]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.12.09-20.02.08:946][125]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.12.09-20.02.08:946][125]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.12.09-20.02.08:948][125]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.12.09-20.02.08:948][125]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5704
+[2018.12.09-20.02.14:057][125]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.12.09-20.02.14:058][125]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.12.09-20.02.14:058][125]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.12.09-20.02.14:058][125]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.12.09-20.02.14:058][125]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.12.09-20.02.14:058][125]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.12.09-20.02.14:404][125]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.12.09-20.02.14:404][125]MapCheck: New page: Level1 - 9. des. 2018, 22.02.14
+[2018.12.09-20.02.14:405][125]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,553ms to complete.
+[2018.12.09-20.02.14:428][125]LogEditorBuildUtils: Build time 0:07
+[2018.12.09-20.02.19:093][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-20.02.19:347][225]LogRenderer: Reallocating scene render targets to support 964x624 Format 9 NumSamples 1 (Frame:127285).
+[2018.12.09-20.02.22:277][265]LogRenderer: Reallocating scene render targets to support 1144x624 Format 9 NumSamples 1 (Frame:127326).
+[2018.12.09-20.02.26:563][353]Job is a success!
+[2018.12.09-20.02.26:828][355]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.080s
+[2018.12.09-20.02.26:829][355]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.12.09-20.02.26:829][355]LogVolumetricLightmapImport:      BrickData 480x5x5 = 0.4Mb
+[2018.12.09-20.02.26:829][355]LogVolumetricLightmapImport:      Bricks at Level
+[2018.12.09-20.02.26:829][355]LogVolumetricLightmapImport:          0: 1.0% covering 100.0% of volume
+[2018.12.09-20.02.26:829][355]LogVolumetricLightmapImport:          1: 4.2% covering 6.3% of volume
+[2018.12.09-20.02.26:829][355]LogVolumetricLightmapImport:          2: 94.8% covering 2.2% of volume
+[2018.12.09-20.02.28:268][355]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.09-20.02.28:268][355]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.09-20.02.28:268][355]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2018.12.09-20.02.28:269][355]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2018.12.09-20.02.28:469][355]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 128X128)
+[2018.12.09-20.02.28:608][355]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 512X512)
+[2018.12.09-20.02.28:692][355]Lightmass on BLACKBIRD: 12.0 sec total, 242 ms importing, 48 ms setup, 1.46 sec photons, 10.1 sec processing, 0 ms extra exporting [263/263 mappings]. Threads: 40.4 sec total, 12.9 sec processing.
+[2018.12.09-20.02.28:972][355]LogStaticLightingSystem: Illumination: 19.9 sec (1.11 sec encoding lightmaps, 329 ms encoding shadowmaps)
+[2018.12.09-20.02.28:972][355]LogStaticLightingSystem: Lightmap texture memory:  2.1 MB (0.1 MB streaming, 2.0 MB non-streaming), 4 textures
+[2018.12.09-20.02.28:972][355]LogStaticLightingSystem: Shadowmap texture memory: 0.4 MB (0.0 MB streaming, 0.3 MB non-streaming), 2 textures
+[2018.12.09-20.02.29:067][355]DumpUnbuiltLightIteractions
+[2018.12.09-20.02.29:067][355]Lights with unbuilt interactions: 0
+[2018.12.09-20.02.29:067][355]
+[2018.12.09-20.02.29:067][355]Primitives with unbuilt interactions: 0
+[2018.12.09-20.02.29:071][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.02.29:411][356]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.12.09-20.02.29:411][356]MapCheck: New page: Level1 - 9. des. 2018, 22.02.29
+[2018.12.09-20.02.29:416][356]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4,552ms to complete.
+[2018.12.09-20.02.30:697][382]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-20.02.30:960][386]LogRenderer: Reallocating scene render targets to support 1364x624 Format 9 NumSamples 1 (Frame:127449).
+[2018.12.09-20.02.33:314][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.09-20.02.34:321][439]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Level1CFAAD7A947E1650D328717AE706C5B9E.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap'
+[2018.12.09-20.02.34:435][439]LogFileHelpers: Saving map 'Level1' took 1.121
+[2018.12.09-20.02.34:443][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1_BuiltData" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1_BuiltData.uasset" SILENT=true
+[2018.12.09-20.02.34:663][439]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Level1_BuiltDataB37805E7497DA64A4FDBF5A3CF110DED.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1_BuiltData.uasset'
+[2018.12.09-20.02.35:980][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-20.02.36:833][500]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-20.02.36:894][500]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.02.36:894][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-20.02.36:894][500]PIE: New page: PIE session: Level1 (9. des. 2018, 22.02.36)
+[2018.12.09-20.02.36:895][500]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-20.02.36:981][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085816s)
+[2018.12.09-20.02.36:982][500]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-20.02.36:982][500]LogPlayLevel: PIE: World Init took: (0.001740s)
+[2018.12.09-20.02.36:983][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.087968s)
+[2018.12.09-20.02.37:129][500]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-20.02.37:155][500]LogInit: FAudioDevice initialized.
+[2018.12.09-20.02.37:193][500]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-20.02.37:199][500]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-21.02.37
+[2018.12.09-20.02.37:200][500]LogWorld: Bringing up level for play took: 0.005476
+[2018.12.09-20.02.37:219][500]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 1,306
+[2018.12.09-20.02.37:219][500]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.03.22:708][789]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 1
+[2018.12.09-20.03.23:968][869]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 2
+[2018.12.09-20.03.24:575][908]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 3
+[2018.12.09-20.03.25:585][970]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 4
+[2018.12.09-20.03.26:880][ 52]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 5
+[2018.12.09-20.05.16:679][151]LogCharacterMovement: GeckoPlayerBP_C_0 is stuck and failed to move! Velocity: X=-108.34 Y=37.02 Z=0.00 Location: X=-1243.12 Y=-534.08 Z=457.06 Normal: X=0.00 Y=0.00 Z=-1.00 PenetrationDepth:0.060 Actor:None Component:ModelComponent_456 BoneName:None (0 other events since notify)
+[2018.12.09-20.05.19:618][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.05.19:619][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-20.05.19:667][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-20.05.19:667][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.05.19:753][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-20.05.19:791][342]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2018.12.09-20.05.45:924][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-20.05.46:071][ 57]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-20.05.46:128][ 57]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.05.46:128][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-20.05.46:129][ 57]PIE: New page: PIE session: Level1 (9. des. 2018, 22.05.46)
+[2018.12.09-20.05.46:129][ 57]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-20.05.46:196][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067615s)
+[2018.12.09-20.05.46:197][ 57]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-20.05.46:198][ 57]LogPlayLevel: PIE: World Init took: (0.001314s)
+[2018.12.09-20.05.46:198][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.069230s)
+[2018.12.09-20.05.46:296][ 57]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-20.05.46:314][ 57]LogInit: FAudioDevice initialized.
+[2018.12.09-20.05.46:344][ 57]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-20.05.46:348][ 57]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-21.05.46
+[2018.12.09-20.05.46:349][ 57]LogWorld: Bringing up level for play took: 0.004034
+[2018.12.09-20.05.46:364][ 57]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 0,446
+[2018.12.09-20.05.46:365][ 57]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.05.50:077][263]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 1
+[2018.12.09-20.05.50:466][286]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 2
+[2018.12.09-20.05.51:103][322]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 3
+[2018.12.09-20.05.51:732][359]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 4
+[2018.12.09-20.05.52:586][409]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 5
+[2018.12.09-20.13.03:317][984]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.13.03:318][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-20.13.03:365][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-20.13.03:366][984]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.13.03:472][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-20.13.03:508][985]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.09-20.13.05:841][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-20.14.28:753][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-20.14.28:844][610]LogTemp: Repeating last play command: Selected Viewport
+[2018.12.09-20.14.28:887][610]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.14.28:887][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.09-20.14.28:887][610]PIE: New page: PIE session: Level1 (9. des. 2018, 22.14.28)
+[2018.12.09-20.14.28:887][610]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2018.12.09-20.14.28:930][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042793s)
+[2018.12.09-20.14.28:931][610]LogAIModule: Creating AISystem for world Level1
+[2018.12.09-20.14.28:931][610]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2018.12.09-20.14.28:932][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.Level1 to /Game/levels/UEDPIE_0_Level1.Level1 (0.044105s)
+[2018.12.09-20.14.29:031][610]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.09-20.14.29:046][610]LogInit: FAudioDevice initialized.
+[2018.12.09-20.14.29:080][610]LogLoad: Game class is 'GeckoGame_C'
+[2018.12.09-20.14.29:084][610]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.12.09-21.14.29
+[2018.12.09-20.14.29:085][610]LogWorld: Bringing up level for play took: 0.003514
+[2018.12.09-20.14.29:100][610]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 1,165
+[2018.12.09-20.14.29:100][610]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.14.36:598][931]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 1
+[2018.12.09-20.14.37:418][985]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 2
+[2018.12.09-20.14.38:225][ 37]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 3
+[2018.12.09-20.14.39:188][ 93]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 4
+[2018.12.09-20.14.40:382][164]LogBlueprintUserMessages: [GeckoPlayerBP_C_0] 5
+[2018.12.09-20.14.55:653][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.14.55:654][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-20.14.55:717][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.09-20.14.55:717][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/levels/Level1.Level1_C' with ClassGeneratedBy '/Game/levels/Level1.Level1:PersistentLevel.Level1'
+[2018.12.09-20.14.55:853][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.09-20.14.55:906][186]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.12.09-20.16.07:863][452]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.12.09-20.16.15:268][646]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.16.15:277][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.12.09-20.16.15:868][646]LogSavePackage: Moving '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Saved/Level12E53E0BE4E51239A0731C5ADE6FB64DF.tmp' to '../../../../../../Users/AK/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap'
+[2018.12.09-20.16.15:921][646]LogFileHelpers: Saving map 'Level1' took 0.645
+[2018.12.09-20.16.17:758][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.16.21:802][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.16.39:034][148]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.17.15:332][155]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.12.09-20.17.19:681][315]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.17.42:366][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.17.42:472][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.09-20.17.45:743][ 32]LogSlate: Window 'Class Viewer' being destroyed
+[2018.12.09-20.17.51:755][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.09-20.17.52:335][261]LogSlate: Window 'GeckoAdventures - Unreal Editor' being destroyed
+[2018.12.09-20.17.52:618][262]Cmd: QUIT_EDITOR
+[2018.12.09-20.17.52:744][262]LogExit: Preparing to exit.
+[2018.12.09-20.17.53:853][262]LogExit: Editor shut down
+[2018.12.09-20.17.53:855][262]LogExit: Transaction tracking system shut down
+[2018.12.09-20.17.54:508][262]LogExit: Object subsystem successfully closed.
+[2018.12.09-20.17.54:536][262]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.09-20.17.54:550][262]LogD3D11RHI: Shutdown
+[2018.12.09-20.17.54:550][262]LogD3D11RHI: CleanupD3DDevice
+[2018.12.09-20.17.54:557][262]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.09-20.17.55:119][262]LogModuleManager: Shutting down and abandoning module SceneOutliner (632)
+[2018.12.09-20.17.55:155][262]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (630)
+[2018.12.09-20.17.55:156][262]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (628)
+[2018.12.09-20.17.55:156][262]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2018.12.09-20.17.55:156][262]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2018.12.09-20.17.55:165][262]LogModuleManager: Shutting down and abandoning module BlueprintGraph (622)
+[2018.12.09-20.17.55:165][262]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (620)
+[2018.12.09-20.17.55:165][262]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2018.12.09-20.17.55:168][262]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2018.12.09-20.17.55:168][262]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2018.12.09-20.17.55:168][262]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2018.12.09-20.17.55:169][262]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2018.12.09-20.17.55:169][262]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2018.12.09-20.17.55:169][262]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2018.12.09-20.17.55:170][262]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2018.12.09-20.17.55:171][262]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2018.12.09-20.17.55:171][262]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2018.12.09-20.17.55:171][262]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2018.12.09-20.17.55:171][262]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2018.12.09-20.17.55:171][262]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2018.12.09-20.17.55:171][262]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2018.12.09-20.17.55:172][262]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2018.12.09-20.17.55:172][262]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2018.12.09-20.17.55:172][262]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2018.12.09-20.17.55:172][262]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2018.12.09-20.17.55:172][262]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2018.12.09-20.17.55:172][262]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2018.12.09-20.17.55:173][262]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2018.12.09-20.17.55:174][262]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2018.12.09-20.17.55:174][262]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2018.12.09-20.17.55:174][262]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2018.12.09-20.17.55:174][262]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2018.12.09-20.17.55:174][262]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2018.12.09-20.17.55:174][262]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2018.12.09-20.17.55:174][262]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2018.12.09-20.17.55:174][262]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2018.12.09-20.17.55:174][262]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2018.12.09-20.17.55:477][262]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2018.12.09-20.17.55:477][262]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2018.12.09-20.17.55:477][262]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2018.12.09-20.17.55:477][262]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2018.12.09-20.17.55:477][262]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2018.12.09-20.17.55:477][262]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2018.12.09-20.17.55:478][262]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2018.12.09-20.17.55:478][262]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2018.12.09-20.17.55:478][262]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2018.12.09-20.17.55:478][262]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2018.12.09-20.17.55:478][262]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2018.12.09-20.17.55:478][262]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2018.12.09-20.17.55:478][262]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2018.12.09-20.17.55:478][262]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2018.12.09-20.17.55:478][262]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2018.12.09-20.17.55:479][262]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2018.12.09-20.17.55:479][262]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2018.12.09-20.17.55:479][262]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2018.12.09-20.17.55:479][262]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2018.12.09-20.17.55:479][262]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2018.12.09-20.17.55:480][262]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2018.12.09-20.17.55:480][262]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2018.12.09-20.17.55:480][262]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2018.12.09-20.17.55:530][262]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2018.12.09-20.17.55:530][262]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2018.12.09-20.17.55:530][262]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2018.12.09-20.17.55:530][262]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2018.12.09-20.17.55:530][262]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2018.12.09-20.17.55:530][262]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2018.12.09-20.17.55:531][262]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2018.12.09-20.17.55:531][262]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2018.12.09-20.17.55:531][262]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2018.12.09-20.17.55:531][262]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2018.12.09-20.17.55:549][262]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2018.12.09-20.17.55:550][262]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2018.12.09-20.17.55:554][262]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2018.12.09-20.17.55:554][262]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2018.12.09-20.17.55:554][262]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2018.12.09-20.17.55:554][262]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2018.12.09-20.17.55:554][262]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2018.12.09-20.17.55:554][262]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2018.12.09-20.17.55:555][262]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2018.12.09-20.17.55:556][262]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2018.12.09-20.17.55:556][262]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2018.12.09-20.17.55:564][262]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.09-20.17.55:629][262]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.09-20.17.55:629][262]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.09-20.17.55:629][262]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.09-20.17.55:629][262]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.09-20.17.55:629][262]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.09-20.17.55:629][262]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.09-20.17.55:629][262]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.09-20.17.55:629][262]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.09-20.17.55:630][262]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.09-20.17.55:630][262]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.09-20.17.55:630][262]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.09-20.17.55:630][262]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.09-20.17.55:630][262]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.09-20.17.55:630][262]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.09-20.17.55:630][262]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.12.09-20.17.55:630][262]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.12.09-20.17.55:630][262]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.12.09-20.17.55:640][262]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2018.12.09-20.17.55:641][262]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2018.12.09-20.17.55:642][262]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.09-20.17.55:642][262]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.09-20.17.55:642][262]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.09-20.17.55:642][262]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.09-20.17.55:642][262]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.09-20.17.55:642][262]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.09-20.17.55:642][262]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.09-20.17.55:643][262]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.09-20.17.55:643][262]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.09-20.17.55:643][262]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.09-20.17.55:643][262]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.09-20.17.55:643][262]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.09-20.17.55:643][262]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.09-20.17.55:643][262]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.09-20.17.55:643][262]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.09-20.17.55:643][262]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2018.12.09-20.17.55:644][262]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2018.12.09-20.17.55:644][262]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.12.09-20.17.55:644][262]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.12.09-20.17.55:644][262]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.12.09-20.17.55:644][262]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.12.09-20.17.55:644][262]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.12.09-20.17.55:644][262]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.12.09-20.17.55:644][262]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.12.09-20.17.55:644][262]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.12.09-20.17.55:644][262]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.12.09-20.17.55:645][262]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.12.09-20.17.55:645][262]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.09-20.17.55:645][262]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.09-20.17.55:745][262]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.09-20.17.55:845][262]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.09-20.17.55:845][262]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.09-20.17.55:845][262]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.09-20.17.55:845][262]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.09-20.17.55:845][262]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.09-20.17.55:845][262]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.09-20.17.55:845][262]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.09-20.17.55:848][262]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.09-20.17.55:848][262]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.09-20.17.55:848][262]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.09-20.17.55:848][262]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.09-20.17.55:850][262]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.09-20.17.55:852][262]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.09-20.17.55:853][262]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.09-20.17.55:853][262]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.09-20.17.55:853][262]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.09-20.17.55:853][262]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.09-20.17.55:853][262]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.12.09-20.17.55:853][262]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.12.09-20.17.55:854][262]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.12.09-20.17.55:861][262]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.09-20.17.55:861][262]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.09-20.17.55:861][262]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.09-20.17.55:861][262]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.09-20.17.55:861][262]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.09-20.17.55:861][262]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.09-20.17.55:862][262]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.09-20.17.55:862][262]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.09-20.17.55:862][262]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.09-20.17.55:862][262]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.09-20.17.55:862][262]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.09-20.17.55:862][262]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.09-20.17.55:862][262]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.09-20.17.55:862][262]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.09-20.17.55:862][262]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.09-20.17.55:862][262]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.09-20.17.55:863][262]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.09-20.17.55:863][262]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.09-20.17.55:863][262]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.09-20.17.55:863][262]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.09-20.17.55:869][262]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.09-20.17.55:869][262]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.09-20.17.55:869][262]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.09-20.17.55:870][262]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.09-20.17.55:871][262]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.09-20.17.55:902][262]LogDerivedDataCache: Shutdown
+[2018.12.09-20.17.55:902][262]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.09-20.17.55:902][262]LogXGEController: Cleaning working directory: C:/Users/AK/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.09-20.17.55:903][262]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.09-20.17.55:903][262]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.09-20.17.55:903][262]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.09-20.17.55:903][262]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.09-20.17.55:903][262]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.09-20.17.55:903][262]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.09-20.17.55:903][262]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.09-20.17.55:903][262]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.09-20.17.55:903][262]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.09-20.17.55:903][262]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.09-20.17.55:904][262]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.09-20.17.55:904][262]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.09-20.17.55:904][262]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.09-20.17.55:904][262]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.09-20.17.55:904][262]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.09-20.17.55:904][262]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.09-20.17.55:904][262]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.09-20.17.55:906][262]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.09-20.17.55:906][262]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.09-20.17.55:907][262]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.09-20.17.55:907][262]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.09-20.17.55:907][262]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.09-20.17.55:909][262]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.09-20.17.55:909][262]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.09-20.17.55:910][262]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.09-20.17.55:910][262]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.09-20.17.55:924][262]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.09-20.17.55:925][262]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.09-20.17.55:925][262]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.09-20.17.55:926][262]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.09-20.17.55:926][262]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.09-20.17.55:926][262]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.09-20.17.55:926][262]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.09-20.17.55:927][262]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.09-20.17.55:928][262]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.09-20.17.55:937][262]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.09-20.17.55:938][262]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.09-20.17.55:938][262]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B78E70FCA-4D55-6A13-DFC9-EF87C95BAFDE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=a8bbf1b74fc8e4331954e69f7ee03c71%7Ce6c7d4078eff4d50a44719ad35baa386%7C9c34bf94-dec3-468e-a4e8-19e915c9129d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.09-20.17.55:951][262]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.09-20.17.55:955][262]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.09-20.17.55:955][262]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.09-20.17.55:955][262]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.09-20.17.55:955][262]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.09-20.17.55:955][262]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.09-20.17.55:955][262]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.09-20.17.55:955][262]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.09-20.17.55:956][262]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.09-20.17.55:956][262]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.09-20.17.55:956][262]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.09-20.17.55:957][262]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.09-20.17.55:958][262]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.09-20.17.55:958][262]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.09-20.17.55:958][262]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.09-20.17.55:958][262]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.09-20.17.55:958][262]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.09-20.17.55:958][262]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.09-20.17.55:960][262]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.09-20.17.55:960][262]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.09-20.17.55:960][262]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.09-20.17.55:960][262]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.09-20.17.55:960][262]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.09-20.17.55:960][262]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.09-20.17.55:960][262]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.09-20.17.55:961][262]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.09-20.17.55:961][262]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.09-20.17.55:961][262]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.09-20.17.55:961][262]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.09-20.17.55:972][262]LogExit: Exiting.
+[2018.12.09-20.17.55:976][262]Log file closed, 12/09/18 21:17:55
