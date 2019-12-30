@@ -699,3 +699,791 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.30-17.29.31:201][144]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
 [2019.12.30-17.29.31:563][166]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
 [2019.12.30-17.29.32:055][195]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 20
+[2019.12.30-17.29.35:542][406]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.12.30-17.29.35:978][432]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.12.30-17.29.37:648][530]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.12.30-17.29.38:059][555]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2019.12.30-17.29.38:253][565]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.12.30-17.29.38:332][570]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.30-17.29.38:780][596]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.12.30-17.29.54:957][802]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.30-17.29.54:987][802]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/Level1.level1
+[2019.12.30-17.29.55:009][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.12.30-17.29.55:011][802]Cmd: MAP LOAD FILE="../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.30-17.29.55:012][802]LightingResults: New page: Lighting Build
+[2019.12.30-17.29.55:012][802]LoadErrors: New page: Loading map: Level1.umap
+[2019.12.30-17.29.55:013][802]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.29.55:014][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.29.55:014][802]MapCheck: New page: Map Check
+[2019.12.30-17.29.55:014][802]LightingResults: New page: Lighting Build
+[2019.12.30-17.29.55:039][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.12.30-17.29.55:064][802]LogAIModule: Creating AISystem for world level1
+[2019.12.30-17.29.55:077][802]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.30-17.29.55:103][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.12.30-17.29.55:129][802]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.30-17.29.55:129][802]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,192ms to complete.
+[2019.12.30-17.29.55:129][802]LogFileHelpers: Loading map 'Level1' took 0.119
+[2019.12.30-17.30.23:235][898]Cmd: EDIT COPY
+[2019.12.30-17.30.23:538][932]Cmd: EDIT PASTE
+[2019.12.30-17.32.16:758][286]LogActorFactory: Actor Factory created Cube
+[2019.12.30-17.32.16:765][286]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.12.30-17.32.16:822][287]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2019.12.30-17.32.16:822][287]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 58
+[2019.12.30-17.32.16:822][287]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 48
+[2019.12.30-17.32.16:822][287]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 38
+[2019.12.30-17.32.17:799][344]LogActorFactory: Actor Factory created Cube
+[2019.12.30-17.32.21:088][551]Cmd: DELETE
+[2019.12.30-17.32.21:088][551]Cmd: ACTOR DELETE
+[2019.12.30-17.32.21:101][551]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2019.12.30-17.32.21:101][551]LogEditorActor: Deleted Actor: Brush
+[2019.12.30-17.32.21:129][551]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.12.30-17.32.21:149][551]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2019.12.30-17.32.21:192][553]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2019.12.30-17.32.21:752][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.30-17.32.21:952][612]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 14
+[2019.12.30-17.32.22:169][627]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2019.12.30-17.32.23:456][714]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2019.12.30-17.32.23:530][719]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2019.12.30-17.32.23:637][726]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.12.30-17.32.24:113][757]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2019.12.30-17.32.24:270][768]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2019.12.30-17.32.27:870][152]LogSlate: Took 0.005717 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.30-17.33.17:574][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.30-17.33.20:995][152]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.30-17.33.25:727][631]LogSlate: Window 'Select Path' being destroyed
+[2019.12.30-17.33.25:768][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.12.30-17.33.25:817][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2019.12.30-17.33.26:135][631]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2019.12.30-17.33.27:390][631]LogMaterial: Display: Missing cached shader map for material GridMaterial, compiling. 
+[2019.12.30-17.33.27:421][631]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2019.12.30-17.33.27:421][631]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2019.12.30-17.33.27:421][631]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2019.12.30-17.33.27:421][631]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2019.12.30-17.33.27:421][631]LogMaterial: Display: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2019.12.30-17.33.27:705][631]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2019.12.30-17.33.28:927][668]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2019.12.30-17.33.29:459][689]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2019.12.30-17.33.29:730][699]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2019.12.30-17.33.29:812][702]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2019.12.30-17.33.31:823][760]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2019.12.30-17.33.32:430][775]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2019.12.30-17.33.32:618][780]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.12.30-17.33.32:968][789]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2019.12.30-17.38.16:012][893]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.30-17.38.49:107][983]BlueprintLog: New page: Compile Cube_Blueprint
+[2019.12.30-17.38.49:435][983]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.12.30-17.38.50:349][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/Cube_Blueprint.uasset" SILENT=true
+[2019.12.30-17.38.50:383][ 42]LogSavePackage: Moving '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Saved/Cube_BlueprintAD2D3E4A4BBD6599E3D894A43B64DCA4.tmp' to '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/Cube_Blueprint.uasset'
+[2019.12.30-17.38.50:404][ 42]AssetCheck: New page: Asset Save: Cube_Blueprint
+[2019.12.30-17.38.50:405][ 42]LogContentValidation: Display: Validating Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2019.12.30-17.39.16:662][868]LogSlate: Window 'Cube_Blueprint' being destroyed
+[2019.12.30-17.40.25:851][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.12.30-17.40.26:156][525]LogSavePackage: Moving '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Saved/Level1_Auto1C4A0B91D468DD01A73E57E8D5CCD6FC2.tmp' to '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Saved/Autosaves/Game/levels/Level1_Auto1.umap'
+[2019.12.30-17.40.26:163][525]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/levels/Level1' took 0.343
+[2019.12.30-17.40.26:163][525]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.343
+[2019.12.30-17.40.26:163][525]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Cube_Blueprint] ([1] browsable assets)...
+[2019.12.30-17.40.26:175][525]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Cube_Blueprint.Cube_Blueprint]
+[2019.12.30-17.40.26:175][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cube_Blueprint]
+[2019.12.30-17.40.26:205][525]LogSavePackage: Moving '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Saved/Cube_Blueprint_Auto18D7F969C4298C9061A4780A181E8F3C7.tmp' to '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Saved/Autosaves/Game/Cube_Blueprint_Auto1.uasset'
+[2019.12.30-17.40.26:207][525]LogFileHelpers: Auto-saving content packages took 0.044
+[2019.12.30-17.40.33:777][403]LogSlate: Took 0.005646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.30-17.42.59:650][767]BlueprintLog: New page: Compile Cube_Blueprint
+[2019.12.30-17.42.59:965][767]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.30-17.43.00:418][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/Cube_Blueprint.uasset" SILENT=true
+[2019.12.30-17.43.00:445][811]LogSavePackage: Moving '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Saved/Cube_BlueprintB609F9AC40C0C26DE331E6A74207967E.tmp' to '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/Cube_Blueprint.uasset'
+[2019.12.30-17.43.00:469][811]AssetCheck: New page: Asset Save: Cube_Blueprint
+[2019.12.30-17.43.00:469][811]LogContentValidation: Display: Validating Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2019.12.30-17.44.15:156][602]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.12.30-17.46.51:727][218]BlueprintLog: New page: Compile Cube_Blueprint
+[2019.12.30-17.46.52:064][218]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2019.12.30-17.50.08:646][996]BlueprintLog: New page: Compile Cube_Blueprint
+[2019.12.30-17.50.08:934][996]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2019.12.30-17.51.13:079][598]BlueprintLog: New page: Compile Cube_Blueprint
+[2019.12.30-17.51.13:364][598]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.30-17.51.28:488][ 15]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.12.30-17.51.37:461][919]LogEditorViewport: Clicking Background
+[2019.12.30-17.51.38:749][ 71]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.12.30-17.51.51:023][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.30-17.51.51:055][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.12.30-17.51.51:380][ 70]LogSavePackage: Moving '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Saved/Level1C4803AA042E9B20BFAD783BA9CB430E4.tmp' to '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap'
+[2019.12.30-17.51.51:461][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1_BuiltData" FILE="../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1_BuiltData.uasset" SILENT=true
+[2019.12.30-17.51.51:558][ 70]LogSavePackage: Moving '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Saved/Level1_BuiltDataD0BC7D4B472F3984153CADB9F5933F91.tmp' to '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1_BuiltData.uasset'
+[2019.12.30-17.51.51:580][ 70]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.30-17.51.51:580][ 70]LogContentValidation: Display: Validating World /Game/levels/Level1.level1
+[2019.12.30-17.51.51:580][ 70]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/levels/Level1_BuiltData.level1_BuiltData
+[2019.12.30-17.51.54:107][304]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.30-17.51.54:121][304]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.51.54:121][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-17.51.54:123][304]PIE: New page: PIE session: Level1 (30. des. 2019, 19:51:54)
+[2019.12.30-17.51.54:126][304]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.30-17.51.54:127][304]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2019.12.30-17.51.54:127][304]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.51.54:146][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018154s)
+[2019.12.30-17.51.54:147][304]LogAIModule: Creating AISystem for world level1
+[2019.12.30-17.51.54:148][304]LogPlayLevel: PIE: World Init took: (0.002018s)
+[2019.12.30-17.51.54:148][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.020779s)
+[2019.12.30-17.51.54:186][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.12.30-17.51.54:192][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.30-17.51.54:192][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.30-17.51.54:192][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.30-17.51.54:192][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.30-17.51.54:192][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.30-17.51.54:192][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.30-17.51.54:192][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.30-17.51.54:192][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.30-17.51.54:192][304]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.30-17.51.54:192][304]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.30-17.51.54:223][304]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.30-17.51.54:223][304]LogAudioMixer: Display: Name: Høyttalere (High Definition Audio Device)
+[2019.12.30-17.51.54:223][304]LogAudioMixer: Display: Is Default: Yes
+[2019.12.30-17.51.54:223][304]LogAudioMixer: Display: Sample Rate: 192000
+[2019.12.30-17.51.54:223][304]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.30-17.51.54:223][304]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.30-17.51.54:223][304]LogAudioMixer: Display: Channel Order:
+[2019.12.30-17.51.54:223][304]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.30-17.51.54:223][304]LogAudioMixer: Display: 1: FrontRight
+[2019.12.30-17.51.54:237][304]LogAudioMixer: Display: Using Audio Device Høyttalere (High Definition Audio Device)
+[2019.12.30-17.51.54:242][304]LogInit: FAudioDevice initialized.
+[2019.12.30-17.51.54:256][304]LogLoad: Game class is 'GeckoGame_C'
+[2019.12.30-17.51.54:261][304]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 0) at 2019.12.30-18.51.54
+[2019.12.30-17.51.54:261][304]LogWorld: Bringing up level for play took: 0.002412
+[2019.12.30-17.51.54:262][304]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.30-17.51.54:270][304]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2019.12.30-17.51.54:276][304]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 0,842
+[2019.12.30-17.51.54:276][304]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.52.01:947][125]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.01:955][126]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.01:963][127]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.01:971][128]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.01:980][129]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.01:988][130]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.01:996][131]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:005][132]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:013][133]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:021][134]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:030][135]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:038][136]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:047][137]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:055][138]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:064][139]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:072][140]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:080][141]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:089][142]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:098][143]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:106][144]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:115][145]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:123][146]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:132][147]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:140][148]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:149][149]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:157][150]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:166][151]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:174][152]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:182][153]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:191][154]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:200][155]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:208][156]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:217][157]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:225][158]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:234][159]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:242][160]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:251][161]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:259][162]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:268][163]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:276][164]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:285][165]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:293][166]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:301][167]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:310][168]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:318][169]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:327][170]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:335][171]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:343][172]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:352][173]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:360][174]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:369][175]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:377][176]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:385][177]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:394][178]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:402][179]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:411][180]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:420][181]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:428][182]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:437][183]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:445][184]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:453][185]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:462][186]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:470][187]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:478][188]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:487][189]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:495][190]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:503][191]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:512][192]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:520][193]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:528][194]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:537][195]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:545][196]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:553][197]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:562][198]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:572][199]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:582][200]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:592][201]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:604][202]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:616][203]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:626][204]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:637][205]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:649][206]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:660][207]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:673][208]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:683][209]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:695][210]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:705][211]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:716][212]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:728][213]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:738][214]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:750][215]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:760][216]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:771][217]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:782][218]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:792][219]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:803][220]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:813][221]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:824][222]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:834][223]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:843][224]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:852][225]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:861][226]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:869][227]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:878][228]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:886][229]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:895][230]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:904][231]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:912][232]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:921][233]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:931][234]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.02:939][235]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.04:821][459]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.07:485][777]PIE: Warning: Mobility of /Game/levels/UEDPIE_0_Level1.level1:PersistentLevel.Cube_Blueprint : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2019.12.30-17.52.07:998][838]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.52.07:998][838]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.52.07:999][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.52.07:999][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.52.07:999][838]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.52.07:999][838]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.52.07:999][838]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.52.08:000][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.52.08:016][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-17.52.08:016][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.52.08:022][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.52.08:059][838]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.52.08:062][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.52.08:117][838]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2019.12.30-17.52.08:180][839]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.30-17.52.19:378][110]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.12.30-17.52.33:405][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.30-17.52.34:339][392]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.12.30-17.52.35:246][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.30-17.52.36:419][587]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.12.30-17.53.05:580][689]BlueprintLog: New page: Compile Cube_Blueprint
+[2019.12.30-17.53.05:952][689]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.30-17.53.06:428][735]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cube_Blueprint" FILE="../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/Cube_Blueprint.uasset" SILENT=true
+[2019.12.30-17.53.06:472][735]LogSavePackage: Moving '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Saved/Cube_Blueprint502008564B678B4EF7AAEC850AB7AB61.tmp' to '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/Cube_Blueprint.uasset'
+[2019.12.30-17.53.06:488][735]AssetCheck: New page: Asset Save: Cube_Blueprint
+[2019.12.30-17.53.06:488][735]LogContentValidation: Display: Validating Blueprint /Game/Cube_Blueprint.Cube_Blueprint
+[2019.12.30-17.53.08:689][943]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.30-17.53.08:703][943]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.53.08:703][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-17.53.08:703][943]PIE: New page: PIE session: Level1 (30. des. 2019, 19:53:08)
+[2019.12.30-17.53.08:703][943]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.53.08:719][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016093s)
+[2019.12.30-17.53.08:720][943]LogAIModule: Creating AISystem for world level1
+[2019.12.30-17.53.08:721][943]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2019.12.30-17.53.08:721][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.017529s)
+[2019.12.30-17.53.08:757][943]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2019.12.30-17.53.08:759][943]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.30-17.53.08:759][943]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.30-17.53.08:759][943]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.30-17.53.08:759][943]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.30-17.53.08:759][943]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.30-17.53.08:759][943]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.30-17.53.08:759][943]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.30-17.53.08:759][943]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.30-17.53.08:760][943]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.30-17.53.08:760][943]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.30-17.53.08:789][943]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.30-17.53.08:789][943]LogAudioMixer: Display: Name: Høyttalere (High Definition Audio Device)
+[2019.12.30-17.53.08:789][943]LogAudioMixer: Display: Is Default: Yes
+[2019.12.30-17.53.08:789][943]LogAudioMixer: Display: Sample Rate: 192000
+[2019.12.30-17.53.08:789][943]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.30-17.53.08:789][943]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.30-17.53.08:789][943]LogAudioMixer: Display: Channel Order:
+[2019.12.30-17.53.08:789][943]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.30-17.53.08:789][943]LogAudioMixer: Display: 1: FrontRight
+[2019.12.30-17.53.08:802][943]LogAudioMixer: Display: Using Audio Device Høyttalere (High Definition Audio Device)
+[2019.12.30-17.53.08:804][943]LogInit: FAudioDevice initialized.
+[2019.12.30-17.53.08:821][943]LogLoad: Game class is 'GeckoGame_C'
+[2019.12.30-17.53.08:823][943]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 0) at 2019.12.30-18.53.08
+[2019.12.30-17.53.08:823][943]LogWorld: Bringing up level for play took: 0.001805
+[2019.12.30-17.53.08:824][943]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.12.30-17.53.08:829][943]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 −0,605
+[2019.12.30-17.53.08:829][943]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.53.20:519][334]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.53.20:519][334]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.53.20:519][334]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.53.20:519][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.53.20:519][334]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.53.20:519][334]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.53.20:519][334]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.53.20:520][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.53.20:534][334]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-17.53.20:534][334]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.53.20:539][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.53.20:569][334]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.53.20:572][334]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.53.20:577][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.12.30-17.53.20:635][336]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.12.30-17.53.23:747][689]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.12.30-17.53.29:482][257]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.30-17.53.29:496][257]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.53.29:496][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-17.53.29:496][257]PIE: New page: PIE session: Level1 (30. des. 2019, 19:53:29)
+[2019.12.30-17.53.29:496][257]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.53.29:512][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015964s)
+[2019.12.30-17.53.29:514][257]LogAIModule: Creating AISystem for world level1
+[2019.12.30-17.53.29:516][257]LogPlayLevel: PIE: World Init took: (0.003715s)
+[2019.12.30-17.53.29:516][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.019872s)
+[2019.12.30-17.53.29:552][257]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.12.30-17.53.29:554][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.30-17.53.29:554][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.30-17.53.29:554][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.30-17.53.29:554][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.30-17.53.29:554][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.30-17.53.29:554][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.30-17.53.29:554][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.30-17.53.29:554][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.30-17.53.29:555][257]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.30-17.53.29:555][257]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.30-17.53.29:583][257]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.30-17.53.29:583][257]LogAudioMixer: Display: Name: Høyttalere (High Definition Audio Device)
+[2019.12.30-17.53.29:583][257]LogAudioMixer: Display: Is Default: Yes
+[2019.12.30-17.53.29:583][257]LogAudioMixer: Display: Sample Rate: 192000
+[2019.12.30-17.53.29:583][257]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.30-17.53.29:583][257]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.30-17.53.29:583][257]LogAudioMixer: Display: Channel Order:
+[2019.12.30-17.53.29:583][257]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.30-17.53.29:583][257]LogAudioMixer: Display: 1: FrontRight
+[2019.12.30-17.53.29:597][257]LogAudioMixer: Display: Using Audio Device Høyttalere (High Definition Audio Device)
+[2019.12.30-17.53.29:598][257]LogInit: FAudioDevice initialized.
+[2019.12.30-17.53.29:610][257]LogLoad: Game class is 'GeckoGame_C'
+[2019.12.30-17.53.29:612][257]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 0) at 2019.12.30-18.53.29
+[2019.12.30-17.53.29:612][257]LogWorld: Bringing up level for play took: 0.001836
+[2019.12.30-17.53.29:612][257]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2019.12.30-17.53.29:617][257]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 0,184
+[2019.12.30-17.53.29:617][257]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.53.56:334][450]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.53.56:334][450]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.53.56:334][450]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.53.56:334][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.53.56:334][450]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.53.56:334][450]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.53.56:334][450]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.53.56:335][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.53.56:348][450]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-17.53.56:348][450]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.53.56:353][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.53.56:385][450]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.53.56:389][450]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.53.56:393][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.12.30-17.53.56:453][452]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.12.30-17.54.00:867][938]Cmd: EDIT COPY
+[2019.12.30-17.54.01:238][975]Cmd: EDIT PASTE
+[2019.12.30-17.54.04:544][298]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.30-17.54.04:558][298]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.54.04:558][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-17.54.04:558][298]PIE: New page: PIE session: Level1 (30. des. 2019, 19:54:04)
+[2019.12.30-17.54.04:559][298]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.54.04:576][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016954s)
+[2019.12.30-17.54.04:576][298]LogAIModule: Creating AISystem for world level1
+[2019.12.30-17.54.04:577][298]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2019.12.30-17.54.04:577][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.018181s)
+[2019.12.30-17.54.04:611][298]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.12.30-17.54.04:614][298]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.30-17.54.04:614][298]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.30-17.54.04:614][298]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.30-17.54.04:614][298]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.30-17.54.04:614][298]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.30-17.54.04:614][298]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.30-17.54.04:614][298]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.30-17.54.04:614][298]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.30-17.54.04:614][298]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.30-17.54.04:614][298]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.30-17.54.04:643][298]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.30-17.54.04:643][298]LogAudioMixer: Display: Name: Høyttalere (High Definition Audio Device)
+[2019.12.30-17.54.04:643][298]LogAudioMixer: Display: Is Default: Yes
+[2019.12.30-17.54.04:643][298]LogAudioMixer: Display: Sample Rate: 192000
+[2019.12.30-17.54.04:643][298]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.30-17.54.04:643][298]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.30-17.54.04:643][298]LogAudioMixer: Display: Channel Order:
+[2019.12.30-17.54.04:643][298]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.30-17.54.04:643][298]LogAudioMixer: Display: 1: FrontRight
+[2019.12.30-17.54.04:657][298]LogAudioMixer: Display: Using Audio Device Høyttalere (High Definition Audio Device)
+[2019.12.30-17.54.04:658][298]LogInit: FAudioDevice initialized.
+[2019.12.30-17.54.04:668][298]LogLoad: Game class is 'GeckoGame_C'
+[2019.12.30-17.54.04:670][298]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 0) at 2019.12.30-18.54.04
+[2019.12.30-17.54.04:671][298]LogWorld: Bringing up level for play took: 0.001762
+[2019.12.30-17.54.04:671][298]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2019.12.30-17.54.04:675][298]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 −0,758
+[2019.12.30-17.54.04:675][298]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.54.11:722][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.54.11:722][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.54.11:722][134]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.54.11:723][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.54.11:723][134]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.54.11:723][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.54.11:723][134]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.54.11:723][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.54.11:734][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-17.54.11:734][134]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.54.11:739][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.54.11:774][134]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.54.11:777][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.54.11:782][134]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.12.30-17.54.11:842][136]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.12.30-17.54.13:122][277]Cmd: EDIT COPY
+[2019.12.30-17.54.13:735][342]Cmd: EDIT PASTE
+[2019.12.30-17.54.21:607][122]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.30-17.54.21:621][122]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.54.21:621][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-17.54.21:621][122]PIE: New page: PIE session: Level1 (30. des. 2019, 19:54:21)
+[2019.12.30-17.54.21:621][122]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.54.21:638][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017009s)
+[2019.12.30-17.54.21:639][122]LogAIModule: Creating AISystem for world level1
+[2019.12.30-17.54.21:639][122]LogPlayLevel: PIE: World Init took: (0.001077s)
+[2019.12.30-17.54.21:639][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.018249s)
+[2019.12.30-17.54.21:677][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2019.12.30-17.54.21:679][122]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.30-17.54.21:679][122]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.30-17.54.21:679][122]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.30-17.54.21:679][122]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.30-17.54.21:679][122]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.30-17.54.21:679][122]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.30-17.54.21:679][122]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.30-17.54.21:679][122]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.30-17.54.21:680][122]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.30-17.54.21:680][122]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.30-17.54.21:709][122]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.30-17.54.21:709][122]LogAudioMixer: Display: Name: Høyttalere (High Definition Audio Device)
+[2019.12.30-17.54.21:709][122]LogAudioMixer: Display: Is Default: Yes
+[2019.12.30-17.54.21:709][122]LogAudioMixer: Display: Sample Rate: 192000
+[2019.12.30-17.54.21:709][122]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.30-17.54.21:709][122]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.30-17.54.21:709][122]LogAudioMixer: Display: Channel Order:
+[2019.12.30-17.54.21:709][122]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.30-17.54.21:709][122]LogAudioMixer: Display: 1: FrontRight
+[2019.12.30-17.54.21:723][122]LogAudioMixer: Display: Using Audio Device Høyttalere (High Definition Audio Device)
+[2019.12.30-17.54.21:724][122]LogInit: FAudioDevice initialized.
+[2019.12.30-17.54.21:733][122]LogLoad: Game class is 'GeckoGame_C'
+[2019.12.30-17.54.21:736][122]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 0) at 2019.12.30-18.54.21
+[2019.12.30-17.54.21:736][122]LogWorld: Bringing up level for play took: 0.001856
+[2019.12.30-17.54.21:736][122]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2019.12.30-17.54.21:741][122]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 0,308
+[2019.12.30-17.54.21:741][122]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.54.35:678][780]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.54.35:678][780]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.54.35:678][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.54.35:679][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.54.35:679][780]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.54.35:679][780]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.54.35:679][780]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.54.35:679][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.54.35:689][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-17.54.35:689][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.54.35:694][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.54.35:727][780]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.54.35:730][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.54.35:735][780]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.12.30-17.54.35:792][782]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.12.30-17.54.39:234][154]Cmd: EDIT COPY
+[2019.12.30-17.54.39:445][177]Cmd: EDIT PASTE
+[2019.12.30-17.54.46:731][920]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.30-17.54.46:745][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.54.46:745][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-17.54.46:745][920]PIE: New page: PIE session: Level1 (30. des. 2019, 19:54:46)
+[2019.12.30-17.54.46:745][920]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.54.46:762][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016572s)
+[2019.12.30-17.54.46:763][920]LogAIModule: Creating AISystem for world level1
+[2019.12.30-17.54.46:763][920]LogPlayLevel: PIE: World Init took: (0.001204s)
+[2019.12.30-17.54.46:763][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.017943s)
+[2019.12.30-17.54.46:796][920]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2019.12.30-17.54.46:798][920]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.30-17.54.46:798][920]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.30-17.54.46:798][920]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.30-17.54.46:798][920]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.30-17.54.46:798][920]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.30-17.54.46:798][920]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.30-17.54.46:798][920]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.30-17.54.46:798][920]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.30-17.54.46:799][920]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.30-17.54.46:799][920]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.30-17.54.46:827][920]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.30-17.54.46:828][920]LogAudioMixer: Display: Name: Høyttalere (High Definition Audio Device)
+[2019.12.30-17.54.46:828][920]LogAudioMixer: Display: Is Default: Yes
+[2019.12.30-17.54.46:828][920]LogAudioMixer: Display: Sample Rate: 192000
+[2019.12.30-17.54.46:828][920]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.30-17.54.46:828][920]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.30-17.54.46:828][920]LogAudioMixer: Display: Channel Order:
+[2019.12.30-17.54.46:828][920]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.30-17.54.46:828][920]LogAudioMixer: Display: 1: FrontRight
+[2019.12.30-17.54.46:841][920]LogAudioMixer: Display: Using Audio Device Høyttalere (High Definition Audio Device)
+[2019.12.30-17.54.46:843][920]LogInit: FAudioDevice initialized.
+[2019.12.30-17.54.46:851][920]LogLoad: Game class is 'GeckoGame_C'
+[2019.12.30-17.54.46:853][920]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 0) at 2019.12.30-18.54.46
+[2019.12.30-17.54.46:854][920]LogWorld: Bringing up level for play took: 0.001850
+[2019.12.30-17.54.46:854][920]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2019.12.30-17.54.46:858][920]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 −0,575
+[2019.12.30-17.54.46:858][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.55.12:731][  9]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.55.12:731][  9]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.55.12:731][  9]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.55.12:731][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.55.12:731][  9]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.55.12:731][  9]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.55.12:731][  9]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.55.12:732][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.55.12:743][  9]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-17.55.12:744][  9]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.55.12:749][  9]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.55.12:791][  9]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.55.12:795][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.55.12:799][  9]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.12.30-17.55.12:865][ 11]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.12.30-17.55.17:263][515]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.12.30-17.55.18:780][662]Cmd: EDIT COPY
+[2019.12.30-17.55.20:065][792]Cmd: EDIT PASTE
+[2019.12.30-17.55.24:241][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.12.30-17.55.24:679][242]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint2)
+[2019.12.30-17.55.28:507][614]Cmd: EDIT COPY
+[2019.12.30-17.55.28:733][636]Cmd: EDIT PASTE
+[2019.12.30-17.55.32:553][998]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.30-17.55.32:567][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.55.32:567][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-17.55.32:567][998]PIE: New page: PIE session: Level1 (30. des. 2019, 19:55:32)
+[2019.12.30-17.55.32:567][998]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.55.32:585][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017544s)
+[2019.12.30-17.55.32:586][998]LogAIModule: Creating AISystem for world level1
+[2019.12.30-17.55.32:586][998]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2019.12.30-17.55.32:586][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.018762s)
+[2019.12.30-17.55.32:621][998]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.12.30-17.55.32:624][998]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.30-17.55.32:624][998]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.30-17.55.32:624][998]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.30-17.55.32:624][998]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.30-17.55.32:624][998]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.30-17.55.32:624][998]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.30-17.55.32:624][998]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.30-17.55.32:624][998]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.30-17.55.32:624][998]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.30-17.55.32:624][998]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.30-17.55.32:653][998]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.30-17.55.32:653][998]LogAudioMixer: Display: Name: Høyttalere (High Definition Audio Device)
+[2019.12.30-17.55.32:653][998]LogAudioMixer: Display: Is Default: Yes
+[2019.12.30-17.55.32:653][998]LogAudioMixer: Display: Sample Rate: 192000
+[2019.12.30-17.55.32:653][998]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.30-17.55.32:653][998]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.30-17.55.32:653][998]LogAudioMixer: Display: Channel Order:
+[2019.12.30-17.55.32:653][998]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.30-17.55.32:653][998]LogAudioMixer: Display: 1: FrontRight
+[2019.12.30-17.55.32:666][998]LogAudioMixer: Display: Using Audio Device Høyttalere (High Definition Audio Device)
+[2019.12.30-17.55.32:668][998]LogInit: FAudioDevice initialized.
+[2019.12.30-17.55.32:680][998]LogLoad: Game class is 'GeckoGame_C'
+[2019.12.30-17.55.32:683][998]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 0) at 2019.12.30-18.55.32
+[2019.12.30-17.55.32:683][998]LogWorld: Bringing up level for play took: 0.002116
+[2019.12.30-17.55.32:683][998]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.12.30-17.55.32:688][998]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 −0,745
+[2019.12.30-17.55.32:688][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.55.41:844][ 86]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.55.41:844][ 86]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.55.41:844][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.55.41:845][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.55.41:845][ 86]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.55.41:845][ 86]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.55.41:845][ 86]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.55.41:846][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.55.41:853][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-17.55.41:853][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.55.41:859][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.55.41:893][ 86]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.55.41:896][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.55.41:901][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2019.12.30-17.55.41:957][ 88]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.12.30-17.55.44:288][340]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.12.30-17.55.47:517][660]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint2)
+[2019.12.30-17.55.50:506][953]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.30-17.55.50:520][953]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.55.50:520][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-17.55.50:520][953]PIE: New page: PIE session: Level1 (30. des. 2019, 19:55:50)
+[2019.12.30-17.55.50:520][953]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.55.50:538][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017760s)
+[2019.12.30-17.55.50:539][953]LogAIModule: Creating AISystem for world level1
+[2019.12.30-17.55.50:539][953]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2019.12.30-17.55.50:539][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.019215s)
+[2019.12.30-17.55.50:574][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2019.12.30-17.55.50:576][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.30-17.55.50:576][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.30-17.55.50:576][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.30-17.55.50:577][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.30-17.55.50:577][953]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.30-17.55.50:577][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.30-17.55.50:577][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.30-17.55.50:577][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.30-17.55.50:577][953]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.30-17.55.50:577][953]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.30-17.55.50:606][953]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.30-17.55.50:606][953]LogAudioMixer: Display: Name: Høyttalere (High Definition Audio Device)
+[2019.12.30-17.55.50:606][953]LogAudioMixer: Display: Is Default: Yes
+[2019.12.30-17.55.50:606][953]LogAudioMixer: Display: Sample Rate: 192000
+[2019.12.30-17.55.50:606][953]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.30-17.55.50:606][953]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.30-17.55.50:606][953]LogAudioMixer: Display: Channel Order:
+[2019.12.30-17.55.50:606][953]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.30-17.55.50:606][953]LogAudioMixer: Display: 1: FrontRight
+[2019.12.30-17.55.50:620][953]LogAudioMixer: Display: Using Audio Device Høyttalere (High Definition Audio Device)
+[2019.12.30-17.55.50:621][953]LogInit: FAudioDevice initialized.
+[2019.12.30-17.55.50:632][953]LogLoad: Game class is 'GeckoGame_C'
+[2019.12.30-17.55.50:635][953]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 0) at 2019.12.30-18.55.50
+[2019.12.30-17.55.50:635][953]LogWorld: Bringing up level for play took: 0.001913
+[2019.12.30-17.55.50:635][953]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.12.30-17.55.50:640][953]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 −0,794
+[2019.12.30-17.55.50:640][953]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.56.01:013][185]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.56.01:013][185]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.56.01:013][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.56.01:013][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.56.01:013][185]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.56.01:013][185]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.56.01:013][185]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.56.01:014][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.56.01:023][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-17.56.01:023][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.56.01:028][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.56.01:063][185]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.56.01:067][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.56.01:071][185]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2019.12.30-17.56.01:130][187]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.12.30-17.56.03:702][473]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint)
+[2019.12.30-17.56.08:626][964]LogEditorViewport: Clicking on Actor (LMB): Cube_Blueprint_C (Cube_Blueprint2)
+[2019.12.30-17.56.12:150][299]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.30-17.56.12:164][299]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.56.12:164][299]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-17.56.12:165][299]PIE: New page: PIE session: Level1 (30. des. 2019, 19:56:12)
+[2019.12.30-17.56.12:165][299]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.56.12:183][299]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018045s)
+[2019.12.30-17.56.12:184][299]LogAIModule: Creating AISystem for world level1
+[2019.12.30-17.56.12:184][299]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2019.12.30-17.56.12:184][299]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.019375s)
+[2019.12.30-17.56.12:218][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.12.30-17.56.12:220][299]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.30-17.56.12:220][299]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.30-17.56.12:220][299]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.30-17.56.12:221][299]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.30-17.56.12:221][299]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.30-17.56.12:221][299]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.30-17.56.12:221][299]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.30-17.56.12:221][299]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.30-17.56.12:221][299]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.30-17.56.12:221][299]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.30-17.56.12:249][299]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.30-17.56.12:249][299]LogAudioMixer: Display: Name: Høyttalere (High Definition Audio Device)
+[2019.12.30-17.56.12:249][299]LogAudioMixer: Display: Is Default: Yes
+[2019.12.30-17.56.12:249][299]LogAudioMixer: Display: Sample Rate: 192000
+[2019.12.30-17.56.12:249][299]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.30-17.56.12:249][299]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.30-17.56.12:249][299]LogAudioMixer: Display: Channel Order:
+[2019.12.30-17.56.12:250][299]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.30-17.56.12:250][299]LogAudioMixer: Display: 1: FrontRight
+[2019.12.30-17.56.12:263][299]LogAudioMixer: Display: Using Audio Device Høyttalere (High Definition Audio Device)
+[2019.12.30-17.56.12:265][299]LogInit: FAudioDevice initialized.
+[2019.12.30-17.56.12:275][299]LogLoad: Game class is 'GeckoGame_C'
+[2019.12.30-17.56.12:277][299]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 0) at 2019.12.30-18.56.12
+[2019.12.30-17.56.12:277][299]LogWorld: Bringing up level for play took: 0.001774
+[2019.12.30-17.56.12:278][299]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2019.12.30-17.56.12:282][299]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 0,849
+[2019.12.30-17.56.12:282][299]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.56.28:239][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.56.28:239][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.56.28:239][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.56.28:239][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.56.28:239][201]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.56.28:239][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.56.28:239][201]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.56.28:240][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.56.28:249][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-17.56.28:249][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.56.28:255][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.56.28:287][201]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.56.28:290][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.56.28:295][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2019.12.30-17.56.28:355][203]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.12.30-17.56.32:034][608]Cmd: EDIT COPY
+[2019.12.30-17.56.32:301][635]Cmd: EDIT PASTE
+[2019.12.30-17.56.39:160][310]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.30-17.56.39:174][310]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.56.39:174][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.30-17.56.39:174][310]PIE: New page: PIE session: Level1 (30. des. 2019, 19:56:39)
+[2019.12.30-17.56.39:174][310]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.56.39:193][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018118s)
+[2019.12.30-17.56.39:193][310]LogAIModule: Creating AISystem for world level1
+[2019.12.30-17.56.39:194][310]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2019.12.30-17.56.39:194][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.019308s)
+[2019.12.30-17.56.39:231][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.12.30-17.56.39:234][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2019.12.30-17.56.39:234][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2019.12.30-17.56.39:234][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2019.12.30-17.56.39:234][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2019.12.30-17.56.39:234][310]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2019.12.30-17.56.39:234][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2019.12.30-17.56.39:234][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2019.12.30-17.56.39:234][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2019.12.30-17.56.39:234][310]LogAudio: Display: Using built-in audio occlusion.
+[2019.12.30-17.56.39:234][310]LogAudioMixer: Display: Initializing audio mixer.
+[2019.12.30-17.56.39:263][310]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2019.12.30-17.56.39:263][310]LogAudioMixer: Display: Name: Høyttalere (High Definition Audio Device)
+[2019.12.30-17.56.39:263][310]LogAudioMixer: Display: Is Default: Yes
+[2019.12.30-17.56.39:263][310]LogAudioMixer: Display: Sample Rate: 192000
+[2019.12.30-17.56.39:263][310]LogAudioMixer: Display: Channel Count Used: 2
+[2019.12.30-17.56.39:263][310]LogAudioMixer: Display: Device Channel Count: 2
+[2019.12.30-17.56.39:263][310]LogAudioMixer: Display: Channel Order:
+[2019.12.30-17.56.39:263][310]LogAudioMixer: Display: 0: FrontLeft
+[2019.12.30-17.56.39:263][310]LogAudioMixer: Display: 1: FrontRight
+[2019.12.30-17.56.39:276][310]LogAudioMixer: Display: Using Audio Device Høyttalere (High Definition Audio Device)
+[2019.12.30-17.56.39:278][310]LogInit: FAudioDevice initialized.
+[2019.12.30-17.56.39:292][310]LogLoad: Game class is 'GeckoGame_C'
+[2019.12.30-17.56.39:295][310]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 0) at 2019.12.30-18.56.39
+[2019.12.30-17.56.39:295][310]LogWorld: Bringing up level for play took: 0.002014
+[2019.12.30-17.56.39:295][310]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.12.30-17.56.39:300][310]PIE: Play in editor start time for /Game/levels/UEDPIE_0_Level1 −0,134
+[2019.12.30-17.56.39:300][310]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.57.34:475][910]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.57.34:492][910]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2019.12.30-17.57.34:512][910]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2019.12.30-17.57.34:512][910]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.57.34:513][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.57.34:513][910]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2019.12.30-17.57.34:513][910]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.57.34:513][910]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2019.12.30-17.57.34:513][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.57.34:522][910]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.30-17.57.34:522][910]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/levels/Level1.level1:PersistentLevel' has LevelScriptBlueprint '/Game/levels/Level1.level1:PersistentLevel.level1' with GeneratedClass '/Game/levels/Level1.level1_C' with ClassGeneratedBy '/Game/levels/Level1.level1:PersistentLevel.level1'
+[2019.12.30-17.57.34:527][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2019.12.30-17.57.34:560][910]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2019.12.30-17.57.34:564][910]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.30-17.57.34:569][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2019.12.30-17.57.34:590][911]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.30-17.57.41:187][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.30-17.57.41:221][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2019.12.30-17.57.41:596][662]LogSavePackage: Moving '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Saved/Level1B6DB19594E31768D6CF74F9CD51DDA76.tmp' to '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1.umap'
+[2019.12.30-17.57.41:631][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1_BuiltData" FILE="../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1_BuiltData.uasset" SILENT=true
+[2019.12.30-17.57.41:695][662]LogSavePackage: Moving '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Saved/Level1_BuiltDataF7721D7749A2FB0DD5386AA5ADC4121E.tmp' to '../../../../../../Users/Per-Arne/Documents/Unreal Projects/GeckoAdventures/Content/levels/Level1_BuiltData.uasset'
+[2019.12.30-17.57.41:722][662]AssetCheck: New page: Asset Save: multiple assets
+[2019.12.30-17.57.41:722][662]LogContentValidation: Display: Validating World /Game/levels/Level1.level1
+[2019.12.30-17.57.41:722][662]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/levels/Level1_BuiltData.level1_BuiltData
