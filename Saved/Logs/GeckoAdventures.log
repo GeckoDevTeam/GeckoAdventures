@@ -1489,3 +1489,308 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.08-12.51.08:764][898]LogContentValidation: Display: Validating StaticMesh /Game/gems/Gem_03_dobj.Gem_03_dobj
 [2021.08.08-12.51.08:764][898]LogContentValidation: Display: Validating World /Game/levels/Level1.level1
 [2021.08.08-12.51.08:789][898]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/levels/Level1_BuiltData.level1_BuiltData
+[2021.08.08-13.03.16:603][675]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.08-13.03.16:610][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.08-13.03.16:610][675]PIE: New page: PIE session: MainMenu (8. aug. 2021, 17:03:16)
+[2021.08.08-13.03.16:610][675]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_MainMenu
+[2021.08.08-13.03.16:611][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001177s)
+[2021.08.08-13.03.16:612][675]LogAIModule: Creating AISystem for world MainMenu
+[2021.08.08-13.03.16:612][675]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2021.08.08-13.03.16:613][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/MainMenu.MainMenu to /Game/levels/UEDPIE_0_MainMenu.MainMenu (0.002421s)
+[2021.08.08-13.03.16:618][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.08-13.03.16:621][675]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.08.08-13.03.16:621][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.08-13.03.16:621][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.08-13.03.16:621][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.08-13.03.16:621][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.08-13.03.16:621][675]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.08-13.03.16:621][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.08-13.03.16:621][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.08-13.03.16:621][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.08-13.03.16:621][675]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.08-13.03.16:621][675]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.08-13.03.16:624][675]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.08-13.03.16:624][675]LogAudioMixer: Display: 1: FrontRight
+[2021.08.08-13.03.16:624][675]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.08-13.03.16:624][675]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.08-13.03.16:624][675]LogAudioMixer: Display: 4: BackLeft
+[2021.08.08-13.03.16:624][675]LogAudioMixer: Display: 5: BackRight
+[2021.08.08-13.03.16:624][675]LogAudioMixer: Display: 6: SideLeft
+[2021.08.08-13.03.16:624][675]LogAudioMixer: Display: 7: SideRight
+[2021.08.08-13.03.16:636][675]LogAudioMixer: Display: Using Audio Device Høyttalere (2- Logitech G733 Gaming Headset)
+[2021.08.08-13.03.16:637][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.08-13.03.16:637][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.08-13.03.16:637][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.08-13.03.16:640][675]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.08-13.03.16:640][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.08-13.03.16:640][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.08-13.03.16:654][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.08-13.03.16:654][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.08-13.03.16:654][675]LogInit: FAudioDevice initialized.
+[2021.08.08-13.03.16:654][675]LogAudio: Display: Audio Device (ID: 5) registered with world 'MainMenu'.
+[2021.08.08-13.03.16:680][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.08-13.03.16:681][675]LogLoad: Game class is 'GameModeBase'
+[2021.08.08-13.03.16:682][675]LogWorld: Bringing World /Game/levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.08.08-15.03.16
+[2021.08.08-13.03.16:682][675]LogWorld: Bringing up level for play took: 0.000480
+[2021.08.08-13.03.16:682][675]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.08.08-13.03.16:689][675]PIE: Server logged in
+[2021.08.08-13.03.16:690][675]PIE: Play in editor total start time 0,083 seconds.
+[2021.08.08-13.03.19:761][857]LogRenderer: Reallocating scene render targets to support 1920x1028 Format 10 NumSamples 1 (Frame:183).
+[2021.08.08-13.03.20:860][919]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.08-13.03.20:861][919]LogNet: Browse: /Game/levels/Level1
+[2021.08.08-13.03.20:861][919]LogLoad: LoadMap: /Game/levels/Level1
+[2021.08.08-13.03.20:861][919]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_MainMenu
+[2021.08.08-13.03.20:862][919]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.03.20:862][919]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.03.20:868][919]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.08-13.03.20:870][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.08-13.03.20:871][919]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2021.08.08-13.03.20:892][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020868s)
+[2021.08.08-13.03.20:893][919]LogAIModule: Creating AISystem for world level1
+[2021.08.08-13.03.20:894][919]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2021.08.08-13.03.20:894][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.022457s)
+[2021.08.08-13.03.20:894][919]LogAudio: Display: Audio Device (ID: 5) registered with world 'level1'.
+[2021.08.08-13.03.20:894][919]LogLoad: Game class is 'GeckoGame_C'
+[2021.08.08-13.03.20:896][919]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 60) at 2021.08.08-15.03.20
+[2021.08.08-13.03.20:896][919]LogWorld: Bringing up level for play took: 0.001505
+[2021.08.08-13.03.20:900][919]LogLoad: Took 0.039000 seconds to LoadMap(/Game/levels/UEDPIE_0_Level1)
+[2021.08.08-13.04.34:997][720]LogSlate: Window 'Geckos Adventures Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.08-13.04.35:013][720]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2021.08.08-13.04.35:014][720]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.04.35:015][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.04.35:030][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.08-13.04.35:032][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.04.35:039][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.08-13.04.35:039][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-13.04.35:041][720]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-13.04.35:070][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.08.08-13.04.35:337][721]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.08.08-13.20.04:894][485]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.08-13.20.04:894][485]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.08-13.20.09:726][700]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.08-13.20.09:733][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.08-13.20.09:733][700]PIE: New page: PIE session: MainMenu (8. aug. 2021, 17:20:09)
+[2021.08.08-13.20.09:733][700]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_MainMenu
+[2021.08.08-13.20.09:734][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001352s)
+[2021.08.08-13.20.09:735][700]LogAIModule: Creating AISystem for world MainMenu
+[2021.08.08-13.20.09:736][700]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2021.08.08-13.20.09:736][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/MainMenu.MainMenu to /Game/levels/UEDPIE_0_MainMenu.MainMenu (0.002711s)
+[2021.08.08-13.20.09:741][700]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.08-13.20.09:743][700]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.08.08-13.20.09:743][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.08-13.20.09:743][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.08-13.20.09:743][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.08-13.20.09:743][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.08-13.20.09:743][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.08-13.20.09:743][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.08-13.20.09:743][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.08-13.20.09:743][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.08-13.20.09:743][700]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.08-13.20.09:743][700]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.08-13.20.09:747][700]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.08-13.20.09:747][700]LogAudioMixer: Display: 1: FrontRight
+[2021.08.08-13.20.09:747][700]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.08-13.20.09:747][700]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.08-13.20.09:747][700]LogAudioMixer: Display: 4: BackLeft
+[2021.08.08-13.20.09:747][700]LogAudioMixer: Display: 5: BackRight
+[2021.08.08-13.20.09:747][700]LogAudioMixer: Display: 6: SideLeft
+[2021.08.08-13.20.09:747][700]LogAudioMixer: Display: 7: SideRight
+[2021.08.08-13.20.09:759][700]LogAudioMixer: Display: Using Audio Device Høyttalere (2- Logitech G733 Gaming Headset)
+[2021.08.08-13.20.09:760][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.08-13.20.09:760][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.08-13.20.09:760][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.08-13.20.09:760][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.08-13.20.09:761][700]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.08-13.20.09:761][700]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.08-13.20.09:778][700]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.08-13.20.09:778][700]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.08-13.20.09:778][700]LogInit: FAudioDevice initialized.
+[2021.08.08-13.20.09:778][700]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2021.08.08-13.20.09:807][700]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.08-13.20.09:807][700]LogLoad: Game class is 'GameModeBase'
+[2021.08.08-13.20.09:808][700]LogWorld: Bringing World /Game/levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.08.08-15.20.09
+[2021.08.08-13.20.09:808][700]LogWorld: Bringing up level for play took: 0.000494
+[2021.08.08-13.20.09:808][700]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.08.08-13.20.09:814][700]PIE: Server logged in
+[2021.08.08-13.20.09:815][700]PIE: Play in editor total start time 0,084 seconds.
+[2021.08.08-13.20.11:802][813]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.08.08-13.20.11:802][813]LogNet: Browse: /Game/levels/Level1
+[2021.08.08-13.20.11:802][813]LogLoad: LoadMap: /Game/levels/Level1
+[2021.08.08-13.20.11:802][813]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_MainMenu
+[2021.08.08-13.20.11:803][813]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.20.11:803][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.20.11:808][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.08-13.20.11:809][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.08-13.20.11:810][813]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2021.08.08-13.20.11:825][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014458s)
+[2021.08.08-13.20.11:826][813]LogAIModule: Creating AISystem for world level1
+[2021.08.08-13.20.11:826][813]LogPlayLevel: PIE: World Init took: (0.001294s)
+[2021.08.08-13.20.11:826][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.015996s)
+[2021.08.08-13.20.11:826][813]LogAudio: Display: Audio Device (ID: 6) registered with world 'level1'.
+[2021.08.08-13.20.11:826][813]LogLoad: Game class is 'GeckoGame_C'
+[2021.08.08-13.20.11:828][813]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 60) at 2021.08.08-15.20.11
+[2021.08.08-13.20.11:828][813]LogWorld: Bringing up level for play took: 0.001089
+[2021.08.08-13.20.11:831][813]LogLoad: Took 0.028493 seconds to LoadMap(/Game/levels/UEDPIE_0_Level1)
+[2021.08.08-13.21.50:603][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.08-13.21.50:603][735]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2021.08.08-13.21.50:603][735]LogSlate: Window 'Geckos Adventures Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.08-13.21.50:608][735]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.21.50:608][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.21.50:617][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.08-13.21.50:620][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.21.50:627][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-13.21.50:628][735]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-13.21.50:653][735]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.08-13.21.50:684][737]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.08.08-13.21.53:728][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/MainMenu" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.08-13.21.53:734][913]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.08-13.21.53:768][913]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/MainMenuAB453C7F4E216AE936CC1595957F815D.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/MainMenu.umap'
+[2021.08.08-13.21.53:784][913]AssetCheck: New page: Asset Save: MainMenu
+[2021.08.08-13.21.53:784][913]LogContentValidation: Display: Validating World /Game/levels/MainMenu.MainMenu
+[2021.08.08-13.24.24:815][891]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.08-13.24.24:815][891]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.08-13.24.28:972][136]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.08-13.24.28:982][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.08-13.24.28:982][136]PIE: New page: PIE session: MainMenu (8. aug. 2021, 17:24:28)
+[2021.08.08-13.24.28:982][136]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_MainMenu
+[2021.08.08-13.24.28:983][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001163s)
+[2021.08.08-13.24.28:984][136]LogAIModule: Creating AISystem for world MainMenu
+[2021.08.08-13.24.28:985][136]LogPlayLevel: PIE: World Init took: (0.001140s)
+[2021.08.08-13.24.28:985][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/MainMenu.MainMenu to /Game/levels/UEDPIE_0_MainMenu.MainMenu (0.002438s)
+[2021.08.08-13.24.28:990][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.08-13.24.28:992][136]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.08.08-13.24.28:992][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.08-13.24.28:992][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.08-13.24.28:992][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.08-13.24.28:992][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.08-13.24.28:992][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.08-13.24.28:992][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.08-13.24.28:992][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.08-13.24.28:992][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.08-13.24.28:992][136]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.08-13.24.28:992][136]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.08-13.24.28:995][136]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.08-13.24.28:995][136]LogAudioMixer: Display: 1: FrontRight
+[2021.08.08-13.24.28:995][136]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.08-13.24.28:995][136]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.08-13.24.28:995][136]LogAudioMixer: Display: 4: BackLeft
+[2021.08.08-13.24.28:995][136]LogAudioMixer: Display: 5: BackRight
+[2021.08.08-13.24.28:995][136]LogAudioMixer: Display: 6: SideLeft
+[2021.08.08-13.24.28:995][136]LogAudioMixer: Display: 7: SideRight
+[2021.08.08-13.24.29:009][136]LogAudioMixer: Display: Using Audio Device Høyttalere (2- Logitech G733 Gaming Headset)
+[2021.08.08-13.24.29:009][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.08-13.24.29:010][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.08-13.24.29:010][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.08-13.24.29:010][136]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.08-13.24.29:010][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.08-13.24.29:010][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.08-13.24.29:027][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.08-13.24.29:028][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.08-13.24.29:028][136]LogInit: FAudioDevice initialized.
+[2021.08.08-13.24.29:028][136]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2021.08.08-13.24.29:045][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.08-13.24.29:045][136]LogLoad: Game class is 'GameModeBase'
+[2021.08.08-13.24.29:045][136]LogWorld: Bringing World /Game/levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.08.08-15.24.29
+[2021.08.08-13.24.29:046][136]LogWorld: Bringing up level for play took: 0.000404
+[2021.08.08-13.24.29:046][136]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.08.08-13.24.29:052][136]PIE: Server logged in
+[2021.08.08-13.24.29:053][136]PIE: Play in editor total start time 0,073 seconds.
+[2021.08.08-13.24.33:237][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.08-13.24.33:240][385]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_MainMenu
+[2021.08.08-13.24.33:240][385]LogSlate: Window 'Geckos Adventures Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.08-13.24.33:245][385]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.24.33:246][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.24.33:260][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.08-13.24.33:261][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.24.33:267][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-13.24.33:268][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-13.24.33:296][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.08.08-13.24.33:335][386]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.08.08-13.24.57:343][812]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/levels/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2021.08.08-13.24.57:621][812]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 126 classes and 0 folders.
+[2021.08.08-13.24.58:765][812]LogSlate: Took 0.000912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.08-13.25.43:813][499]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.25.43:813][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.25.48:682][787]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Main/GeckoGame.GeckoGame
+[2021.08.08-13.25.52:933][  3]LogSlate: Window 'GeckoGame' being destroyed
+[2021.08.08-13.25.52:939][  3]LogSlate: Window 'GeckoGame' being destroyed
+[2021.08.08-13.25.52:966][  3]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.25.52:966][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.26.02:155][545]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Main/Ui/Credits.Credits
+[2021.08.08-13.27.40:016][148]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.08.08-13.27.53:541][897]LogSlate: Window 'Color Picker' being destroyed
+[2021.08.08-13.28.11:628][971]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.08.08-13.28.50:570][695]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.26/Engine/Content/UMG': No such file or directory
+[2021.08.08-13.29.33:397][ 57]BlueprintLog: New page: Compile Credits
+[2021.08.08-13.29.33:474][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.08.08-13.29.34:191][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main/Ui/Credits" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/Main/Ui/Credits.uasset" SILENT=true
+[2021.08.08-13.29.34:242][ 93]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Credits8828A40F4712BAB239EF81856E4DED5B.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/Main/Ui/Credits.uasset'
+[2021.08.08-13.29.34:256][ 93]AssetCheck: New page: Asset Save: Credits
+[2021.08.08-13.29.34:256][ 93]LogContentValidation: Display: Validating WidgetBlueprint /Game/Main/Ui/Credits.Credits
+[2021.08.08-13.29.38:253][332]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.29.38:253][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.29.38:262][332]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.29.38:262][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.29.39:890][428]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.08-13.29.39:900][428]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.08-13.29.39:900][428]PIE: New page: PIE session: MainMenu (8. aug. 2021, 17:29:39)
+[2021.08.08-13.29.39:900][428]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_MainMenu
+[2021.08.08-13.29.39:901][428]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001085s)
+[2021.08.08-13.29.39:902][428]LogAIModule: Creating AISystem for world MainMenu
+[2021.08.08-13.29.39:902][428]LogPlayLevel: PIE: World Init took: (0.000993s)
+[2021.08.08-13.29.39:902][428]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/MainMenu.MainMenu to /Game/levels/UEDPIE_0_MainMenu.MainMenu (0.002197s)
+[2021.08.08-13.29.39:954][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.08.08-13.29.39:955][428]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.08.08-13.29.39:955][428]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.08-13.29.39:955][428]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.08-13.29.39:955][428]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.08-13.29.39:955][428]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.08-13.29.39:955][428]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.08-13.29.39:955][428]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.08-13.29.39:955][428]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.08-13.29.39:955][428]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.08-13.29.39:956][428]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.08-13.29.39:956][428]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.08-13.29.39:959][428]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.08-13.29.39:959][428]LogAudioMixer: Display: 1: FrontRight
+[2021.08.08-13.29.39:959][428]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.08-13.29.39:959][428]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.08-13.29.39:959][428]LogAudioMixer: Display: 4: BackLeft
+[2021.08.08-13.29.39:959][428]LogAudioMixer: Display: 5: BackRight
+[2021.08.08-13.29.39:959][428]LogAudioMixer: Display: 6: SideLeft
+[2021.08.08-13.29.39:959][428]LogAudioMixer: Display: 7: SideRight
+[2021.08.08-13.29.39:972][428]LogAudioMixer: Display: Using Audio Device Høyttalere (2- Logitech G733 Gaming Headset)
+[2021.08.08-13.29.39:972][428]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.08-13.29.39:972][428]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.08-13.29.39:972][428]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.08-13.29.39:973][428]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.08-13.29.39:973][428]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.08-13.29.39:973][428]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.08-13.29.39:991][428]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.08-13.29.39:991][428]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.08-13.29.39:991][428]LogInit: FAudioDevice initialized.
+[2021.08.08-13.29.39:991][428]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainMenu'.
+[2021.08.08-13.29.40:018][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.08-13.29.40:019][428]LogLoad: Game class is 'GameModeBase'
+[2021.08.08-13.29.40:019][428]LogWorld: Bringing World /Game/levels/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2021.08.08-15.29.40
+[2021.08.08-13.29.40:020][428]LogWorld: Bringing up level for play took: 0.000416
+[2021.08.08-13.29.40:020][428]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.08.08-13.29.40:025][428]PIE: Server logged in
+[2021.08.08-13.29.40:026][428]PIE: Play in editor total start time 0,129 seconds.
+[2021.08.08-13.29.44:413][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.08-13.29.44:416][689]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_MainMenu
+[2021.08.08-13.29.44:416][689]LogSlate: Window 'Geckos Adventures Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.08-13.29.44:423][689]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.29.44:423][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.29.44:435][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.08-13.29.44:441][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.29.44:459][689]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.08-13.29.44:472][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-13.29.44:474][689]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-13.29.44:537][689]LogUObjectHash: Compacting FUObjectHashTables data took  10.12ms
+[2021.08.08-13.29.44:584][690]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.08.08-13.29.46:702][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/MainMenu" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.08-13.29.46:721][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.08.08-13.29.46:751][811]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/MainMenu71A103A547696FFEFD3375BF168BD3A4.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/MainMenu.umap'
+[2021.08.08-13.29.46:766][811]AssetCheck: New page: Asset Save: MainMenu
+[2021.08.08-13.29.46:766][811]LogContentValidation: Display: Validating World /Game/levels/MainMenu.MainMenu
