@@ -1374,3 +1374,118 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.08-11.35.20:416][208]LogSlate: Window 'Gem_03_dobj' being destroyed
 [2021.08.08-11.35.20:418][208]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
 [2021.08.08-11.35.20:418][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-11.43.45:516][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.08.08-11.43.45:576][926]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Level1_Auto22A8CBEF54540A61ED1AB16ADFFE0A21C.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Autosaves/Game/levels/Level1_Auto2.umap'
+[2021.08.08-11.43.45:577][926]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/Level1' took 0.069
+[2021.08.08-11.43.45:578][926]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2021.08.08-11.43.45:578][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/gems/Gem_01] ([1] browsable assets)...
+[2021.08.08-11.43.45:607][926]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/gems/Gem_01.Gem_01]
+[2021.08.08-11.43.45:607][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/gems/Gem_01]
+[2021.08.08-11.43.45:607][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gems/Gem_01" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Autosaves/Game/gems/Gem_01_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.08.08-11.43.45:617][926]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Gem_01_Auto246260DDA40487C4315CC0F9923D01821.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Autosaves/Game/gems/Gem_01_Auto2.uasset'
+[2021.08.08-11.43.45:618][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/gems/Gem_02_Diamond] ([1] browsable assets)...
+[2021.08.08-11.43.45:647][926]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/gems/Gem_02_Diamond.Gem_02_Diamond]
+[2021.08.08-11.43.45:647][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/gems/Gem_02_Diamond]
+[2021.08.08-11.43.45:655][926]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Gem_02_Diamond_Auto28135D27A4F06B3CFD94090A5CC1F4A84.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Autosaves/Game/gems/Gem_02_Diamond_Auto2.uasset'
+[2021.08.08-11.43.45:656][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/gems/Gem_03_dobj] ([1] browsable assets)...
+[2021.08.08-11.43.45:685][926]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/gems/Gem_03_dobj.Gem_03_dobj]
+[2021.08.08-11.43.45:685][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/gems/Gem_03_dobj]
+[2021.08.08-11.43.45:693][926]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Gem_03_dobj_Auto2A9801FA046F8339093ADBC95FC962816.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Autosaves/Game/gems/Gem_03_dobj_Auto2.uasset'
+[2021.08.08-11.43.45:694][926]LogFileHelpers: Auto-saving content packages took 0.116
+[2021.08.08-12.50.05:860][270]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.08-12.50.05:868][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.08-12.50.05:869][270]PIE: New page: PIE session: Level1 (8. aug. 2021, 16:50:05)
+[2021.08.08-12.50.05:869][270]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2021.08.08-12.50.05:891][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021220s)
+[2021.08.08-12.50.05:893][270]LogAIModule: Creating AISystem for world level1
+[2021.08.08-12.50.05:893][270]LogPlayLevel: PIE: World Init took: (0.002667s)
+[2021.08.08-12.50.05:893][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.024262s)
+[2021.08.08-12.50.05:904][270]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.08.08-12.50.05:907][270]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.08.08-12.50.05:907][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.08-12.50.05:907][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.08-12.50.05:907][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.08-12.50.05:907][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.08-12.50.05:908][270]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.08-12.50.05:908][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.08-12.50.05:908][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.08-12.50.05:908][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.08-12.50.05:908][270]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.08-12.50.05:908][270]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.08-12.50.05:912][270]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.08-12.50.05:912][270]LogAudioMixer: Display: 1: FrontRight
+[2021.08.08-12.50.05:912][270]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.08-12.50.05:912][270]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.08-12.50.05:912][270]LogAudioMixer: Display: 4: BackLeft
+[2021.08.08-12.50.05:912][270]LogAudioMixer: Display: 5: BackRight
+[2021.08.08-12.50.05:912][270]LogAudioMixer: Display: 6: SideLeft
+[2021.08.08-12.50.05:912][270]LogAudioMixer: Display: 7: SideRight
+[2021.08.08-12.50.05:926][270]LogAudioMixer: Display: Using Audio Device Høyttalere (2- Logitech G733 Gaming Headset)
+[2021.08.08-12.50.05:930][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.08-12.50.05:931][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.08-12.50.05:931][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.08-12.50.05:935][270]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.08-12.50.05:935][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.08-12.50.05:935][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.08-12.50.05:945][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.08-12.50.05:945][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.08-12.50.05:945][270]LogInit: FAudioDevice initialized.
+[2021.08.08-12.50.05:945][270]LogAudio: Display: Audio Device (ID: 4) registered with world 'level1'.
+[2021.08.08-12.50.05:971][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.08-12.50.05:971][270]LogLoad: Game class is 'GeckoGame_C'
+[2021.08.08-12.50.05:975][270]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 60) at 2021.08.08-14.50.05
+[2021.08.08-12.50.05:975][270]LogWorld: Bringing up level for play took: 0.002884
+[2021.08.08-12.50.05:975][270]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.08.08-12.50.05:998][270]PIE: Server logged in
+[2021.08.08-12.50.06:000][270]PIE: Play in editor total start time 0,134 seconds.
+[2021.08.08-12.50.57:483][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.08-12.50.57:483][352]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2021.08.08-12.50.57:483][352]LogSlate: Window 'Geckos Adventures Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.08-12.50.57:491][352]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-12.50.57:492][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-12.50.57:501][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.08-12.50.57:503][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-12.50.57:507][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.08-12.50.57:507][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-12.50.57:509][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-12.50.57:529][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.08.08-12.50.57:546][353]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.08.08-12.51.06:662][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.08-12.51.07:926][898]LogSlate: Window 'Save Content' being destroyed
+[2021.08.08-12.51.08:074][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gems/Gem_01" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/gems/Gem_01.uasset" SILENT=true
+[2021.08.08-12.51.08:078][898]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Gem_013980B0FB4520C7DBF3759091A57BF8B4.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/gems/Gem_01.uasset'
+[2021.08.08-12.51.08:235][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gems/Gem_02_Diamond" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/gems/Gem_02_Diamond.uasset" SILENT=true
+[2021.08.08-12.51.08:238][898]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Gem_02_Diamond0A3C721A440638F53DAB27B869189D3B.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/gems/Gem_02_Diamond.uasset'
+[2021.08.08-12.51.08:405][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gems/Gem_03_dobj" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/gems/Gem_03_dobj.uasset" SILENT=true
+[2021.08.08-12.51.08:408][898]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Gem_03_dobj660CCC0C4F3276BDCD5BBC85866A7019.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/gems/Gem_03_dobj.uasset'
+[2021.08.08-12.51.08:581][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.08-12.51.08:586][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.08.08-12.51.08:637][898]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Level1A33B018B47A5E3FF770BC583BA48AEC2.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1.umap'
+[2021.08.08-12.51.08:645][898]LogFileHelpers: Saving map 'Level1' took 0.065
+[2021.08.08-12.51.08:646][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1_BuiltData" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1_BuiltData.uasset" SILENT=true
+[2021.08.08-12.51.08:664][898]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Level1_BuiltDataCDDEAD9041F6FD36CCE10590D95F3097.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1_BuiltData.uasset'
+[2021.08.08-12.51.08:666][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1_BuiltData" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1_BuiltData.uasset" SILENT=true
+[2021.08.08-12.51.08:681][898]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Level1_BuiltData85F79686484AD372D3186389568E3D6F.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1_BuiltData.uasset'
+[2021.08.08-12.51.08:717][898]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/MainMenu.MainMenu
+[2021.08.08-12.51.08:717][898]Cmd: MAP LOAD FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.08-12.51.08:717][898]LightingResults: New page: Lighting Build
+[2021.08.08-12.51.08:718][898]LoadErrors: New page: Loading map: MainMenu.umap
+[2021.08.08-12.51.08:720][898]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-12.51.08:720][898]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-12.51.08:720][898]MapCheck: New page: Map Check
+[2021.08.08-12.51.08:720][898]LightingResults: New page: Lighting Build
+[2021.08.08-12.51.08:726][898]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.08-12.51.08:731][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.08.08-12.51.08:734][898]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2021.08.08-12.51.08:736][898]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.08-12.51.08:736][898]LogAIModule: Creating AISystem for world MainMenu
+[2021.08.08-12.51.08:743][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.08-12.51.08:748][898]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.08-12.51.08:748][898]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,158ms to complete.
+[2021.08.08-12.51.08:748][898]LogFileHelpers: Loading map 'MainMenu' took 0.031
+[2021.08.08-12.51.08:764][898]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.08-12.51.08:764][898]LogContentValidation: Display: Validating StaticMesh /Game/gems/Gem_02_Diamond.Gem_02_Diamond
+[2021.08.08-12.51.08:764][898]LogContentValidation: Display: Validating StaticMesh /Game/gems/Gem_01.Gem_01
+[2021.08.08-12.51.08:764][898]LogContentValidation: Display: Validating StaticMesh /Game/gems/Gem_03_dobj.Gem_03_dobj
+[2021.08.08-12.51.08:764][898]LogContentValidation: Display: Validating World /Game/levels/Level1.level1
+[2021.08.08-12.51.08:789][898]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/levels/Level1_BuiltData.level1_BuiltData
