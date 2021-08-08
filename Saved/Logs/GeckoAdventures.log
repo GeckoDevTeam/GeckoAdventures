@@ -1794,3 +1794,648 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.08-13.29.46:751][811]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/MainMenu71A103A547696FFEFD3375BF168BD3A4.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/MainMenu.umap'
 [2021.08.08-13.29.46:766][811]AssetCheck: New page: Asset Save: MainMenu
 [2021.08.08-13.29.46:766][811]LogContentValidation: Display: Validating World /Game/levels/MainMenu.MainMenu
+[2021.08.08-13.31.11:051][481]LogStaticMesh: Building static mesh ButterflyBody...
+[2021.08.08-13.31.11:052][481]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/ButterflyBody.ButterflyBody
+[2021.08.08-13.31.11:055][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\ButterflyWing.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Butterflies': Can't find file.
+[2021.08.08-13.31.11:055][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\ButterflyWing.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Butterflies': Can't find file.
+[2021.08.08-13.31.11:055][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\ButterflyWing.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Butterflies': Can't find file.
+[2021.08.08-13.31.11:056][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\ButterflyWing.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Butterflies': Can't find file.
+[2021.08.08-13.31.11:056][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Butterflies.M_Inst_Butterflies Referenced by ButterflyWing
+[2021.08.08-13.31.11:057][481]LogStaticMesh: Building static mesh ButterflyWing...
+[2021.08.08-13.31.11:057][481]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/ButterflyWing.ButterflyWing
+[2021.08.08-13.31.11:058][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Apple.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:059][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Apple.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:059][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Apple.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:060][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Apple.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:060][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_02.M_Inst_Pack_02 Referenced by SM_Apple
+[2021.08.08-13.31.11:061][481]LogStaticMesh: Building static mesh SM_Apple...
+[2021.08.08-13.31.11:069][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Apple.SM_Apple
+[2021.08.08-13.31.11:071][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Axe.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06': Can't find file.
+[2021.08.08-13.31.11:071][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Axe.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06': Can't find file.
+[2021.08.08-13.31.11:072][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Axe.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06': Can't find file.
+[2021.08.08-13.31.11:072][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Axe.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06': Can't find file.
+[2021.08.08-13.31.11:073][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_06.M_Inst_Pack_06 Referenced by SM_Axe
+[2021.08.08-13.31.11:075][481]LogStaticMesh: Building static mesh SM_Axe...
+[2021.08.08-13.31.11:082][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Axe.SM_Axe
+[2021.08.08-13.31.11:097][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Barrel.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:097][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Barrel.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:098][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Barrel.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:098][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Barrel.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:098][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_01.M_Inst_Pack_01 Referenced by SM_Barrel
+[2021.08.08-13.31.11:107][481]LogStaticMesh: Building static mesh SM_Barrel...
+[2021.08.08-13.31.11:135][481]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Barrel.SM_Barrel
+[2021.08.08-13.31.11:139][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Boat.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:139][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Boat.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:140][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Boat.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:140][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Boat.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:140][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_07.M_Inst_Pack_07 Referenced by SM_Boat
+[2021.08.08-13.31.11:145][481]LogStaticMesh: Building static mesh SM_Boat...
+[2021.08.08-13.31.11:161][481]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Boat.SM_Boat
+[2021.08.08-13.31.11:164][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:164][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:165][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:165][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_07.M_Inst_Pack_07 Referenced by SM_Bridge_Var01
+[2021.08.08-13.31.11:168][481]LogStaticMesh: Building static mesh SM_Bridge_Var01...
+[2021.08.08-13.31.11:177][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Bridge_Var01.SM_Bridge_Var01
+[2021.08.08-13.31.11:179][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:180][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:180][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:181][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_07.M_Inst_Pack_07 Referenced by SM_Bridge_Var02
+[2021.08.08-13.31.11:183][481]LogStaticMesh: Building static mesh SM_Bridge_Var02...
+[2021.08.08-13.31.11:194][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Bridge_Var02.SM_Bridge_Var02
+[2021.08.08-13.31.11:196][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:196][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:197][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_07': Can't find file.
+[2021.08.08-13.31.11:197][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_07.M_Inst_Pack_07 Referenced by SM_Bridge_Var03
+[2021.08.08-13.31.11:199][481]LogStaticMesh: Building static mesh SM_Bridge_Var03...
+[2021.08.08-13.31.11:210][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Bridge_Var03.SM_Bridge_Var03
+[2021.08.08-13.31.11:212][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06': Can't find file.
+[2021.08.08-13.31.11:212][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06': Can't find file.
+[2021.08.08-13.31.11:213][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bridge_Var04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06': Can't find file.
+[2021.08.08-13.31.11:213][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_06.M_Inst_Pack_06 Referenced by SM_Bridge_Var04
+[2021.08.08-13.31.11:214][481]LogStaticMesh: Building static mesh SM_Bridge_Var04...
+[2021.08.08-13.31.11:220][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Bridge_Var04.SM_Bridge_Var04
+[2021.08.08-13.31.11:234][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bucket.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:235][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bucket.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:235][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Bucket.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:235][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_02.M_Inst_Pack_02 Referenced by SM_Bucket
+[2021.08.08-13.31.11:240][481]LogStaticMesh: Building static mesh SM_Bucket...
+[2021.08.08-13.31.11:260][481]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Bucket.SM_Bucket
+[2021.08.08-13.31.11:263][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Cart_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:263][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Cart_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:264][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Cart_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:264][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_01.M_Inst_Pack_01 Referenced by SM_Cart_Var01
+[2021.08.08-13.31.11:275][481]LogStaticMesh: Building static mesh SM_Cart_Var01...
+[2021.08.08-13.31.11:347][481]LogStaticMesh: Built static mesh [0.07s] /Game/AdvancedVillagePack/Meshes/SM_Cart_Var01.SM_Cart_Var01
+[2021.08.08-13.31.11:351][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Cart_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:351][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Cart_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:352][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Cart_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:352][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_01.M_Inst_Pack_01 Referenced by SM_Cart_Var02
+[2021.08.08-13.31.11:363][481]LogStaticMesh: Building static mesh SM_Cart_Var02...
+[2021.08.08-13.31.11:438][481]LogStaticMesh: Built static mesh [0.08s] /Game/AdvancedVillagePack/Meshes/SM_Cart_Var02.SM_Cart_Var02
+[2021.08.08-13.31.11:442][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Cauldron.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:442][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Cauldron.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:443][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Cauldron.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:443][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_02.M_Inst_Pack_02 Referenced by SM_Cauldron
+[2021.08.08-13.31.11:448][481]LogStaticMesh: Building static mesh SM_Cauldron...
+[2021.08.08-13.31.11:471][481]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Cauldron.SM_Cauldron
+[2021.08.08-13.31.11:473][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Crate_Closed.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_03': Can't find file.
+[2021.08.08-13.31.11:474][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Crate_Closed.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_03': Can't find file.
+[2021.08.08-13.31.11:474][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Crate_Closed.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_03': Can't find file.
+[2021.08.08-13.31.11:475][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Crate_Closed.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_03': Can't find file.
+[2021.08.08-13.31.11:475][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_03.M_Inst_Pack_03 Referenced by SM_Crate_Closed
+[2021.08.08-13.31.11:482][481]LogStaticMesh: Building static mesh SM_Crate_Closed...
+[2021.08.08-13.31.11:511][481]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_Crate_Closed.SM_Crate_Closed
+[2021.08.08-13.31.11:513][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Crate_Open.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_03': Can't find file.
+[2021.08.08-13.31.11:514][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Crate_Open.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_03': Can't find file.
+[2021.08.08-13.31.11:515][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Crate_Open.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_03': Can't find file.
+[2021.08.08-13.31.11:515][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_03.M_Inst_Pack_03 Referenced by SM_Crate_Open
+[2021.08.08-13.31.11:520][481]LogStaticMesh: Building static mesh SM_Crate_Open...
+[2021.08.08-13.31.11:563][481]LogStaticMesh: Built static mesh [0.04s] /Game/AdvancedVillagePack/Meshes/SM_Crate_Open.SM_Crate_Open
+[2021.08.08-13.31.11:566][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:566][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:567][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:567][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_01.M_Inst_Pack_01 Referenced by SM_Fence_Var01
+[2021.08.08-13.31.11:571][481]LogStaticMesh: Building static mesh SM_Fence_Var01...
+[2021.08.08-13.31.11:580][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Fence_Var01.SM_Fence_Var01
+[2021.08.08-13.31.11:582][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:582][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:583][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:583][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_01.M_Inst_Pack_01 Referenced by SM_Fence_Var02
+[2021.08.08-13.31.11:587][481]LogStaticMesh: Building static mesh SM_Fence_Var02...
+[2021.08.08-13.31.11:598][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Fence_Var02.SM_Fence_Var02
+[2021.08.08-13.31.11:601][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:601][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:601][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:601][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_01.M_Inst_Pack_01 Referenced by SM_Fence_Var03
+[2021.08.08-13.31.11:606][481]LogStaticMesh: Building static mesh SM_Fence_Var03...
+[2021.08.08-13.31.11:615][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Fence_Var03.SM_Fence_Var03
+[2021.08.08-13.31.11:618][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:618][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:619][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fence_Var04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_01': Can't find file.
+[2021.08.08-13.31.11:619][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_01.M_Inst_Pack_01 Referenced by SM_Fence_Var04
+[2021.08.08-13.31.11:622][481]LogStaticMesh: Building static mesh SM_Fence_Var04...
+[2021.08.08-13.31.11:633][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Fence_Var04.SM_Fence_Var04
+[2021.08.08-13.31.11:636][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fish.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:636][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fish.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:637][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Fish.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_02': Can't find file.
+[2021.08.08-13.31.11:637][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_02.M_Inst_Pack_02 Referenced by SM_Fish
+[2021.08.08-13.31.11:641][481]LogStaticMesh: Building static mesh SM_Fish...
+[2021.08.08-13.31.11:651][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Fish.SM_Fish
+[2021.08.08-13.31.11:653][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:654][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:654][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:655][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:655][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout.M_Inst_Pack_06_Cutout Referenced by SM_Flower_Var01
+[2021.08.08-13.31.11:659][481]LogStaticMesh: Building static mesh SM_Flower_Var01...
+[2021.08.08-13.31.11:683][481]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var01.SM_Flower_Var01
+[2021.08.08-13.31.11:685][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:685][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:686][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:686][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout.M_Inst_Pack_06_Cutout Referenced by SM_Flower_Var02
+[2021.08.08-13.31.11:690][481]LogStaticMesh: Building static mesh SM_Flower_Var02...
+[2021.08.08-13.31.11:710][481]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var02.SM_Flower_Var02
+[2021.08.08-13.31.11:712][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:712][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:713][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:713][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout.M_Inst_Pack_06_Cutout Referenced by SM_Flower_Var03
+[2021.08.08-13.31.11:717][481]LogStaticMesh: Building static mesh SM_Flower_Var03...
+[2021.08.08-13.31.11:738][481]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var03.SM_Flower_Var03
+[2021.08.08-13.31.11:740][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:741][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:741][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:742][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout.M_Inst_Pack_06_Cutout Referenced by SM_Flower_Var04
+[2021.08.08-13.31.11:746][481]LogStaticMesh: Building static mesh SM_Flower_Var04...
+[2021.08.08-13.31.11:766][481]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var04.SM_Flower_Var04
+[2021.08.08-13.31.11:769][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var05.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:769][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var05.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:770][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var05.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:770][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout.M_Inst_Pack_06_Cutout Referenced by SM_Flower_Var05
+[2021.08.08-13.31.11:774][481]LogStaticMesh: Building static mesh SM_Flower_Var05...
+[2021.08.08-13.31.11:793][481]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var05.SM_Flower_Var05
+[2021.08.08-13.31.11:796][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var06.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:796][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var06.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:797][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Flower_Var06.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:797][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout.M_Inst_Pack_06_Cutout Referenced by SM_Flower_Var06
+[2021.08.08-13.31.11:801][481]LogStaticMesh: Building static mesh SM_Flower_Var06...
+[2021.08.08-13.31.11:823][481]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_Flower_Var06.SM_Flower_Var06
+[2021.08.08-13.31.11:825][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var01': Can't find file.
+[2021.08.08-13.31.11:826][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var01': Can't find file.
+[2021.08.08-13.31.11:826][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var01': Can't find file.
+[2021.08.08-13.31.11:827][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var01': Can't find file.
+[2021.08.08-13.31.11:827][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var01.M_Inst_Landscape_Foliage_Var01 Referenced by SM_GrassPatch_Var01
+[2021.08.08-13.31.11:829][481]LogStaticMesh: Building static mesh SM_GrassPatch_Var01...
+[2021.08.08-13.31.11:847][481]LogStaticMesh: Built static mesh [0.02s] /Game/AdvancedVillagePack/Meshes/SM_GrassPatch_Var01.SM_GrassPatch_Var01
+[2021.08.08-13.31.11:849][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var02': Can't find file.
+[2021.08.08-13.31.11:850][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var02': Can't find file.
+[2021.08.08-13.31.11:850][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var02': Can't find file.
+[2021.08.08-13.31.11:851][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var02': Can't find file.
+[2021.08.08-13.31.11:851][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var02.M_Inst_Landscape_Foliage_Var02 Referenced by SM_GrassPatch_Var02
+[2021.08.08-13.31.11:853][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var03': Can't find file.
+[2021.08.08-13.31.11:853][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var03': Can't find file.
+[2021.08.08-13.31.11:853][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var03': Can't find file.
+[2021.08.08-13.31.11:854][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_GrassPatch_Var03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var03': Can't find file.
+[2021.08.08-13.31.11:854][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var03.M_Inst_Landscape_Foliage_Var03 Referenced by SM_GrassPatch_Var03
+[2021.08.08-13.31.11:856][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Hay_Small_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:857][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Hay_Small_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:857][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Hay_Small_Var01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:857][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout.M_Inst_Pack_06_Cutout Referenced by SM_Hay_Small_Var01
+[2021.08.08-13.31.11:858][481]LogStaticMesh: Building static mesh SM_Hay_Small_Var01...
+[2021.08.08-13.31.11:858][481]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_Hay_Small_Var01.SM_Hay_Small_Var01
+[2021.08.08-13.31.11:860][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Hay_Small_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:861][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Hay_Small_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:861][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Hay_Small_Var02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:861][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout.M_Inst_Pack_06_Cutout Referenced by SM_Hay_Small_Var02
+[2021.08.08-13.31.11:862][481]LogStaticMesh: Building static mesh SM_Hay_Small_Var02...
+[2021.08.08-13.31.11:862][481]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_Hay_Small_Var02.SM_Hay_Small_Var02
+[2021.08.08-13.31.11:864][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Hay_Stack.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:864][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Hay_Stack.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:877][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_Hay_Stack.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout': Can't find file.
+[2021.08.08-13.31.11:877][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout.M_Inst_Pack_06_Cutout Referenced by SM_Hay_Stack
+[2021.08.08-13.31.11:880][481]LogStaticMesh: Building static mesh SM_Hay_Stack...
+[2021.08.08-13.31.11:890][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_Hay_Stack.SM_Hay_Stack
+[2021.08.08-13.31.11:893][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Detail_N': Can't find file.
+[2021.08.08-13.31.11:894][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Detail_N': Can't find file.
+[2021.08.08-13.31.11:894][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_D': Can't find file.
+[2021.08.08-13.31.11:894][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_D': Can't find file.
+[2021.08.08-13.31.11:895][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_N': Can't find file.
+[2021.08.08-13.31.11:895][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_N': Can't find file.
+[2021.08.08-13.31.11:896][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_RM': Can't find file.
+[2021.08.08-13.31.11:896][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_RM': Can't find file.
+[2021.08.08-13.31.11:896][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_03_E': Can't find file.
+[2021.08.08-13.31.11:897][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_03_E': Can't find file.
+[2021.08.08-13.31.11:897][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Detail_N': Can't find file.
+[2021.08.08-13.31.11:897][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_D': Can't find file.
+[2021.08.08-13.31.11:898][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_N': Can't find file.
+[2021.08.08-13.31.11:898][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_RM': Can't find file.
+[2021.08.08-13.31.11:898][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_03_E': Can't find file.
+[2021.08.08-13.31.11:899][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_D': Can't find file.
+[2021.08.08-13.31.11:900][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_D': Can't find file.
+[2021.08.08-13.31.11:900][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_E': Can't find file.
+[2021.08.08-13.31.11:901][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_E': Can't find file.
+[2021.08.08-13.31.11:901][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_N': Can't find file.
+[2021.08.08-13.31.11:901][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_N': Can't find file.
+[2021.08.08-13.31.11:902][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_RM': Can't find file.
+[2021.08.08-13.31.11:902][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_RM': Can't find file.
+[2021.08.08-13.31.11:903][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_D': Can't find file.
+[2021.08.08-13.31.11:903][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_E': Can't find file.
+[2021.08.08-13.31.11:903][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_N': Can't find file.
+[2021.08.08-13.31.11:904][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_RM': Can't find file.
+[2021.08.08-13.31.11:906][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Detail_N': Can't find file.
+[2021.08.08-13.31.11:906][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Textures/T_Detail_N.T_Detail_N Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2021.08.08-13.31.11:906][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_RM': Can't find file.
+[2021.08.08-13.31.11:906][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Textures/T_Pack_01_RM.T_Pack_01_RM Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2021.08.08-13.31.11:907][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_N': Can't find file.
+[2021.08.08-13.31.11:907][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Textures/T_Pack_01_N.T_Pack_01_N Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2021.08.08-13.31.11:907][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_01_D': Can't find file.
+[2021.08.08-13.31.11:907][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Textures/T_Pack_01_D.T_Pack_01_D Referenced by MaterialExpressionTextureSampleParameter2D_4
+[2021.08.08-13.31.11:907][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_03_E': Can't find file.
+[2021.08.08-13.31.11:907][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Textures/T_Pack_03_E.T_Pack_03_E Referenced by MaterialExpressionTextureSampleParameter2D_5
+[2021.08.08-13.31.11:908][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_D': Can't find file.
+[2021.08.08-13.31.11:908][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Textures/T_Pack_04_D.T_Pack_04_D Referenced by M_Inst_Pack_04
+[2021.08.08-13.31.11:909][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_E': Can't find file.
+[2021.08.08-13.31.11:909][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Textures/T_Pack_04_E.T_Pack_04_E Referenced by M_Inst_Pack_04
+[2021.08.08-13.31.11:910][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_N': Can't find file.
+[2021.08.08-13.31.11:910][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Textures/T_Pack_04_N.T_Pack_04_N Referenced by M_Inst_Pack_04
+[2021.08.08-13.31.11:910][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Inst_Pack_04.uasset: Failed to load '/Game/AdvancedVillagePack/Textures/T_Pack_04_RM': Can't find file.
+[2021.08.08-13.31.11:910][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Textures/T_Pack_04_RM.T_Pack_04_RM Referenced by M_Inst_Pack_04
+[2021.08.08-13.31.11:912][481]LogMaterial: Display: Missing cached shader map for material M_Uber, compiling. 
+[2021.08.08-13.31.11:913][481]LogMaterial: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Materials\M_Uber.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.08.08-13.31.11:914][481]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.08.08-13.31.11:923][481]LogStaticMesh: Building static mesh SM_House_Var01...
+[2021.08.08-13.31.11:987][481]LogStaticMesh: Built static mesh [0.06s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01.SM_House_Var01
+[2021.08.08-13.31.11:992][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.11:992][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.11:992][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.11:993][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra01.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.11:993][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_05.M_Inst_Pack_05 Referenced by SM_House_Var01_Extra01
+[2021.08.08-13.31.11:996][481]LogStaticMesh: Building static mesh SM_House_Var01_Extra01...
+[2021.08.08-13.31.12:029][481]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra01.SM_House_Var01_Extra01
+[2021.08.08-13.31.12:031][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra01_LightsOn.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05_LightsOn': Can't find file.
+[2021.08.08-13.31.12:032][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra01_LightsOn.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05_LightsOn': Can't find file.
+[2021.08.08-13.31.12:032][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra01_LightsOn.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05_LightsOn': Can't find file.
+[2021.08.08-13.31.12:033][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra01_LightsOn.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05_LightsOn': Can't find file.
+[2021.08.08-13.31.12:033][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_05_LightsOn.M_Inst_Pack_05_LightsOn Referenced by SM_House_Var01_Extra01_LightsOn
+[2021.08.08-13.31.12:035][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:036][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:036][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra02.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:037][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_05.M_Inst_Pack_05 Referenced by SM_House_Var01_Extra02
+[2021.08.08-13.31.12:039][481]LogStaticMesh: Building static mesh SM_House_Var01_Extra02...
+[2021.08.08-13.31.12:053][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra02.SM_House_Var01_Extra02
+[2021.08.08-13.31.12:056][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra02_LightsOn.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05_LightsOn': Can't find file.
+[2021.08.08-13.31.12:056][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra02_LightsOn.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05_LightsOn': Can't find file.
+[2021.08.08-13.31.12:103][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra02_LightsOn.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05_LightsOn': Can't find file.
+[2021.08.08-13.31.12:103][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_05_LightsOn.M_Inst_Pack_05_LightsOn Referenced by SM_House_Var01_Extra02_LightsOn
+[2021.08.08-13.31.12:109][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:109][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:110][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra03.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:110][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_05.M_Inst_Pack_05 Referenced by SM_House_Var01_Extra03
+[2021.08.08-13.31.12:112][481]LogStaticMesh: Building static mesh SM_House_Var01_Extra03...
+[2021.08.08-13.31.12:119][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra03.SM_House_Var01_Extra03
+[2021.08.08-13.31.12:121][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:121][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:122][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra04.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:122][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_05.M_Inst_Pack_05 Referenced by SM_House_Var01_Extra04
+[2021.08.08-13.31.12:124][481]LogStaticMesh: Building static mesh SM_House_Var01_Extra04...
+[2021.08.08-13.31.12:129][481]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra04.SM_House_Var01_Extra04
+[2021.08.08-13.31.12:131][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra05.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:131][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra05.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:132][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra05.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:132][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_05.M_Inst_Pack_05 Referenced by SM_House_Var01_Extra05
+[2021.08.08-13.31.12:134][481]LogStaticMesh: Building static mesh SM_House_Var01_Extra05...
+[2021.08.08-13.31.12:144][481]LogStaticMesh: Built static mesh [0.01s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra05.SM_House_Var01_Extra05
+[2021.08.08-13.31.12:146][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra06.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:147][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra06.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:147][481]LogLinker: Warning: [AssetLog] C:\Users\Per-Arne D.K\Documents\GeckoAdventures 4.26\Content\AdvancedVillagePack\Meshes\SM_House_Var01_Extra06.uasset: Failed to load '/Game/AdvancedVillagePack/Materials/M_Inst_Pack_05': Can't find file.
+[2021.08.08-13.31.12:147][481]LoadErrors: Failed to load /Game/AdvancedVillagePack/Materials/M_Inst_Pack_05.M_Inst_Pack_05 Referenced by SM_House_Var01_Extra06
+[2021.08.08-13.31.12:149][481]LogStaticMesh: Building static mesh SM_House_Var01_Extra06...
+[2021.08.08-13.31.12:151][481]LogStaticMesh: Built static mesh [0.00s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra06.SM_House_Var01_Extra06
+[2021.08.08-13.31.14:733][620]LogEditorViewport: Clicking Background
+[2021.08.08-13.31.19:602][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.08.08-13.31.19:641][907]LogAssetEditorSubsystem: Opening Asset editor for World /Game/levels/Level1.level1
+[2021.08.08-13.31.19:641][907]Cmd: MAP LOAD FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.08-13.31.19:641][907]LightingResults: New page: Lighting Build
+[2021.08.08-13.31.19:641][907]LoadErrors: New page: Loading map: Level1.umap
+[2021.08.08-13.31.19:642][907]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.31.19:642][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.31.19:642][907]MapCheck: New page: Map Check
+[2021.08.08-13.31.19:643][907]LightingResults: New page: Lighting Build
+[2021.08.08-13.31.19:659][907]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.08-13.31.19:663][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.08.08-13.31.19:664][907]LogAudio: Display: Audio Device (ID: 1) registered with world 'level1'.
+[2021.08.08-13.31.19:676][907]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.08-13.31.19:676][907]LogAIModule: Creating AISystem for world level1
+[2021.08.08-13.31.19:698][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.08.08-13.31.19:704][907]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.08-13.31.19:704][907]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,169ms to complete.
+[2021.08.08-13.31.19:704][907]LogFileHelpers: Loading map 'Level1' took 0.063
+[2021.08.08-13.32.07:745][648]LogSlate: Window 'Reimport missing files' being destroyed
+[2021.08.08-13.32.07:751][648]Message dialog closed, result: Yes, title: Reimport missing files, text: There is 42 assets with missing source file path. Do you want to specify a new source file path for each asset?
+ "No" will skip the reimport of all asset with a missing source file path.
+ "Cancel" will cancel the whole reimport.
+
+Asset ButterflyBody -> Missing file D:/Projects/AssetPacks/Assets/Sources/Meshes/Exported/Butterflies/ButterflyBody.fbx
+Asset ButterflyWing -> Missing file D:/Projects/AssetPacks/Assets/Sources/Meshes/Exported/Butterflies/Butterfly_Wing.fbx
+Asset SM_Apple -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Apple.fbx
+Asset SM_Axe -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Axe.fbx
+Asset SM_Barrel -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Barrel.fbx
+Asset SM_Boat -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Boat.fbx
+Asset SM_Bridge_Var01 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Bridge_Var01.fbx
+Asset SM_Bridge_Var02 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Bridge_Var02.fbx
+Asset SM_Bridge_Var03 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Bridge_Var03.fbx
+Asset SM_Bridge_Var04 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Bridge_Var04.fbx
+Asset SM_Bucket -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Bucket.fbx
+Asset SM_Cart_Var01 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Cart_Var01.fbx
+Asset SM_Cart_Var02 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Cart_Var02.fbx
+Asset SM_Cauldron -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Cauldron.fbx
+Asset SM_Crate_Closed -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Crate_Closed.fbx
+Asset SM_Crate_Open -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Crate_Open.fbx
+Asset SM_Fence_Var01 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Fence_Var01.fbx
+Asset SM_Fence_Var02 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Fence_Var02.fbx
+Asset SM_Fence_Var03 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Fence_Var03.fbx
+Asset SM_Fence_Var04 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Fence_Var04.fbx
+Asset SM_Fish -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Fish.fbx
+Asset SM_Flower_Var01 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Flower_Var01.fbx
+Asset SM_Flower_Var02 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Flower_Var02.fbx
+Asset SM_Flower_Var03 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Flower_Var03.fbx
+Asset SM_Flower_Var04 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Flower_Var04.fbx
+Asset SM_Flower_Var05 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Flower_Var05.fbx
+Asset SM_Flower_Var06 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Flower_Var06.fbx
+Asset SM_GrassPatch_Var01 -> Missing file D:/Projects/AssetPacks/Assets/Sources/Meshes/Exported/SM_GrassPatch_Var01.fbx
+Asset SM_GrassPatch_Var02 -> Missing file D:/Projects/AssetPacks/Assets/Sources/Meshes/Exported/SM_GrassPatch_Var01.fbx
+Asset SM_GrassPatch_Var03 -> Missing file D:/Projects/AssetPacks/Assets/Sources/Meshes/Exported/SM_GrassPatch_Var01.fbx
+Asset SM_Hay_Small_Var01 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Hay_Small_Var01.fbx
+Asset SM_Hay_Small_Var02 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Hay_Small_Var02.fbx
+Asset SM_Hay_Stack -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_Hay_Stack.fbx
+Asset SM_House_Var01 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_House_Var01.fbx
+Asset SM_House_Var01_Extra01 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_House_Var01_Extra01.fbx
+Asset SM_House_Var01_Extra01_LightsOn -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_House_Var01_Extra01.fbx
+Asset SM_House_Var01_Extra02 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_House_Var01_Extra02.fbx
+Asset SM_House_Var01_Extra02_LightsOn -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_House_Var01_Extra02.fbx
+Asset SM_House_Var01_Extra03 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_House_Var01_Extra03.fbx
+Asset SM_House_Var01_Extra04 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_House_Var01_Extra04.fbx
+Asset SM_House_Var01_Extra05 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_House_Var01_Extra05.fbx
+Asset SM_House_Var01_Extra06 -> Missing file D:/Projects/AssetPacks/Assets/Exported/Meshes/SM_House_Var01_Extra06.fbx
+[2021.08.08-13.32.21:184][184]LogActorFactory: Actor Factory created SM_Bridge_Var01
+[2021.08.08-13.32.21:755][217]LogActorFactory: Actor Factory created SM_Bridge_Var01
+[2021.08.08-13.32.26:994][522]LogActorFactory: Actor Factory created SM_Bucket
+[2021.08.08-13.32.27:289][539]LogActorFactory: Actor Factory created SM_Bucket
+[2021.08.08-13.32.35:070][994]LogActorFactory: Actor Factory created SM_House_Var01_Extra01
+[2021.08.08-13.32.35:483][ 17]LogActorFactory: Actor Factory created SM_House_Var01_Extra01
+[2021.08.08-13.32.37:274][121]MapCheck: New page: Map Check
+[2021.08.08-13.32.37:291][121]Cmd: MAP REBUILD ALLVISIBLE
+[2021.08.08-13.32.37:292][121]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.08.08-13.32.37:365][121]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=false
+[2021.08.08-13.32.37:395][121]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.08.08-13.32.37:395][121]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.08.08-13.32.37:395][121]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.08.08-13.32.37:414][121]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.08.08-13.32.37:419][121]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.08.08-13.32.37:438][121]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.08-13.32.37:440][121]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.08-13.32.42:869][121]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 52
+[2021.08.08-13.32.42:869][121]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 51
+[2021.08.08-13.32.42:869][121]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 50
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 49
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 48
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 46
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 45
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 44
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 43
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 42
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 41
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 40
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 39
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 38
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 37
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 36
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 35
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 34
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 32
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 31
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 29
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 27
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 25
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 23
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 18
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2021.08.08-13.32.42:870][121]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 9
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.08.08-13.32.42:871][121]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.08.08-13.32.42:871][121]TextureStreamingBuild: Display: Compiling optional shaders took 5.452 seconds.
+[2021.08.08-13.32.42:879][121]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2021.08.08-13.32.42:883][121]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2021.08.08-13.32.42:902][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.08.08-13.32.42:905][121]LightingResults: New page: Lighting Build - 8. aug. 2021, 17:32:42
+[2021.08.08-13.32.42:915][121]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.08.08-13.32.42:923][121]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.08.08-13.32.42:923][121]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.08.08-13.32.42:926][121]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.08.08-13.32.42:926][121]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9172
+[2021.08.08-13.32.47:495][121]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.08.08-13.32.47:495][121]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.08.08-13.32.47:495][121]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.08.08-13.32.47:495][121]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.08.08-13.32.47:495][121]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.08.08-13.32.47:495][121]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.08.08-13.32.47:621][121]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.08.08-13.32.47:621][121]MapCheck: New page: Level1 - 8. aug. 2021, 17:32:47
+[2021.08.08-13.32.47:621][121]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.08.08-13.32.47:621][121]MapCheck: Warning: Floor Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.08.08-13.32.47:621][121]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 0,64ms to complete.
+[2021.08.08-13.32.47:623][121]LogEditorBuildUtils: Build time 0:10
+[2021.08.08-13.32.47:739][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.08.08-13.32.49:794][182]Job is a success!
+[2021.08.08-13.32.49:929][183]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2021.08.08-13.32.49:929][183]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.08.08-13.32.49:929][183]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2021.08.08-13.32.49:929][183]LogVolumetricLightmapImport:      Bricks at depth
+[2021.08.08-13.32.49:929][183]LogVolumetricLightmapImport:          0: 6.2% covering 100.0% of volume
+[2021.08.08-13.32.49:929][183]LogVolumetricLightmapImport:          1: 18.8% covering 4.7% of volume
+[2021.08.08-13.32.49:929][183]LogVolumetricLightmapImport:          2: 75.0% covering 0.3% of volume
+[2021.08.08-13.32.49:929][183]LogVolumetricLightmapImport:      Bricks in each level
+[2021.08.08-13.32.49:929][183]LogVolumetricLightmapImport:          level1 			 16 bricks 	 100.0% (Persistent Level)
+[2021.08.08-13.32.50:150][183]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2021.08.08-13.32.50:150][183]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2021.08.08-13.32.50:150][183]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2021.08.08-13.32.50:150][183]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2021.08.08-13.32.50:150][183]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2021.08.08-13.32.50:150][183]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2021.08.08-13.32.50:150][183]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 256X64)
+[2021.08.08-13.32.50:150][183]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X128)
+[2021.08.08-13.32.50:150][183]Lightmass on DESKTOP-HG8LV94: 1.69 sec total, 141 ms importing, 13 ms setup, 114 ms photons, 1.31 sec processing, 0 ms extra exporting [295/295 mappings]. Threads: 14.4 sec total, 1.86 sec processing.
+[2021.08.08-13.32.50:168][183]LogStaticLightingSystem: level1_BuiltData storing lightmap data for 6 meshes in 2 LightmapResourceClusters (3.0 Meshes per cluster).
+[2021.08.08-13.32.50:192][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.08.08-13.32.50:241][183]LogStaticLightingSystem: Illumination: 7.27 sec (56 ms encoding lightmaps, 8 ms encoding shadowmaps)
+[2021.08.08-13.32.50:241][183]LogStaticLightingSystem: Lightmap texture memory:  0.3 MB (0.2 MB streaming, 0.2 MB non-streaming), 4 textures
+[2021.08.08-13.32.50:241][183]LogStaticLightingSystem: Shadowmap texture memory: 0.1 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.08.08-13.32.50:498][183]DumpUnbuiltLightIteractions
+[2021.08.08-13.32.50:498][183]Lights with unbuilt interactions: 0
+[2021.08.08-13.32.50:498][183]
+[2021.08.08-13.32.50:498][183]Primitives with unbuilt interactions: 0
+[2021.08.08-13.32.50:581][183]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.08.08-13.32.50:619][184]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.08.08-13.32.50:619][184]MapCheck: New page: Level1 - 8. aug. 2021, 17:32:50
+[2021.08.08-13.32.50:619][184]MapCheck: Warning: Floor Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.08.08-13.32.50:619][184]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,582ms to complete.
+[2021.08.08-13.32.57:630][527]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/AdvancedVillagePack/Materials/M_Inst_Pack_04.M_Inst_Pack_04
+[2021.08.08-13.32.59:890][631]LogSlate: Window 'M_Inst_Pack_04' being destroyed
+[2021.08.08-13.32.59:903][631]LogSlate: Window 'M_Inst_Pack_04' being destroyed
+[2021.08.08-13.32.59:933][631]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-13.32.59:933][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-13.33.09:227][105]LogAssetTools: Warning: Failed to import 'C:\Users\Per-Arne D.K\Downloads\Book_01.uasset'. Unknown extension 'uasset'.
+[2021.08.08-13.33.16:171][269]LogSlate: Window 'Message Log' being destroyed
+[2021.08.08-13.33.16:177][269]LogSlate: Window 'Message Log' being destroyed
+[2021.08.08-13.33.47:030][380]LogActorFactory: Actor Factory created SM_House_Var01_Extra06
+[2021.08.08-13.33.47:466][400]LogActorFactory: Actor Factory created SM_House_Var01_Extra06
+[2021.08.08-13.34.07:427][122]LogActorFactory: Actor Factory created SM_House_Var01
+[2021.08.08-13.34.07:872][145]LogActorFactory: Actor Factory created SM_House_Var01
+[2021.08.08-13.34.17:201][674]Cmd: DELETE
+[2021.08.08-13.34.17:201][674]Cmd: ACTOR DELETE
+[2021.08.08-13.34.17:208][674]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.08-13.34.17:235][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.08.08-13.34.17:243][674]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2021.08.08-13.34.18:277][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bridge_Var01)
+[2021.08.08-13.34.19:309][794]Cmd: DELETE
+[2021.08.08-13.34.19:310][794]Cmd: ACTOR DELETE
+[2021.08.08-13.34.19:315][794]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.08-13.34.19:337][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.08.08-13.34.19:338][794]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2021.08.08-13.34.20:848][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bucket)
+[2021.08.08-13.34.21:152][894]Cmd: DELETE
+[2021.08.08-13.34.21:153][894]Cmd: ACTOR DELETE
+[2021.08.08-13.34.21:158][894]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.08-13.34.21:181][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.08.08-13.34.21:182][894]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.08.08-13.34.22:201][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_Var01_Extra06)
+[2021.08.08-13.34.22:602][976]Cmd: DELETE
+[2021.08.08-13.34.22:602][976]Cmd: ACTOR DELETE
+[2021.08.08-13.34.22:608][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.08-13.34.22:631][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.08-13.34.22:632][976]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.08.08-13.34.23:183][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_House_Var01_Extra01)
+[2021.08.08-13.34.23:338][ 16]Cmd: DELETE
+[2021.08.08-13.34.23:338][ 16]Cmd: ACTOR DELETE
+[2021.08.08-13.34.23:344][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.08-13.34.23:364][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.08-13.34.23:365][ 16]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.08.08-13.34.30:266][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.08.08-13.34.32:740][396]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.08-13.34.32:767][396]LogUObjectGlobals: Force Deleting 44 Package(s):
+	Asset Name: /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra06.SM_House_Var01_Extra06
+	Asset Name: /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra05.SM_House_Var01_Extra05
+	Asset Name: /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra04.SM_House_Var01_Extra04
+	Asset Name: /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra03.SM_House_Var01_Extra03
+	Asset Name: /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra02_LightsOn.SM_House_Var01_Extra02_LightsOn
+	Asset Name: /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra02.SM_House_Var01_Extra02
+	Asset Name: /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra01_LightsOn.SM_House_Var01_Extra01_LightsOn
+	Asset Name: /Game/AdvancedVillagePack/Meshes/SM_House_Var01_Extra01.SM_House_Var01_Extra01
+	Asset Name: /Game/AdvancedVillagePack/Meshes/SM_House_Var01.SM_House_Var01
+	Asset Name: /Game/AdvancedVillagePack/Materials/M_Inst_Pack_04.M_Inst_Pack_04
+[2021.08.08-13.34.33:701][396]LogStaticMesh: Building static mesh SM_House_Var01...
+[2021.08.08-13.34.33:730][396]LogStaticMesh: Built static mesh [0.03s] /Game/AdvancedVillagePack/Meshes/SM_House_Var01.SM_House_Var01
+[2021.08.08-13.34.33:880][396]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.08.08-13.34.42:531][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.08.08-13.34.42:556][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-13.34.42:576][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-13.34.42:597][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.08-13.34.42:618][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-13.34.42:639][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.08-13.34.42:661][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.08.08-13.34.42:683][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-13.34.42:704][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-13.34.42:736][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-13.34.42:758][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-13.34.42:780][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.08-13.34.42:802][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.08.08-13.34.42:824][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-13.34.42:845][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.08-13.34.42:866][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.08-13.34.42:888][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-13.34.42:910][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.08-13.34.42:934][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-13.34.42:956][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-13.34.42:976][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-13.34.42:998][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-13.34.43:020][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.08.08-13.34.43:042][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.08-13.34.43:063][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.08.08-13.34.43:084][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.08-13.34.43:104][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-13.34.43:125][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.08-13.34.43:149][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-13.34.43:171][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.08.08-13.34.43:193][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-13.34.43:215][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-13.34.43:235][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-13.34.43:258][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.08.08-13.34.43:280][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-13.34.43:300][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.08.08-13.34.43:322][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-13.34.43:343][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.08-13.34.43:374][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-13.34.43:394][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.08-13.34.43:417][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.08.08-13.34.43:440][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.08.08-13.34.43:462][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-13.34.43:484][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.08.08-13.34.43:509][396]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.08.08-13.34.43:532][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.08.08-13.34.43:934][396]SourceControl: Error: Updated 0 paths from the index
+[2021.08.08-13.34.44:272][396]SourceControl: Error: warning: could not open directory 'Content/AdvancedVillagePack/': No such file or directory
+[2021.08.08-13.34.44:272][396]SourceControl: Error: warning: could not open directory 'Content/AdvancedVillagePack/': No such file or directory
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Materials/M_Inst_Pack_04.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Materials/M_Uber.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/ButterflyBody.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/ButterflyWing.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Apple.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Axe.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Barrel.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Boat.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Bridge_Var01.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Bridge_Var02.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Bridge_Var03.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Bridge_Var04.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Bucket.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Cart_Var01.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Cart_Var02.uasset'
+[2021.08.08-13.34.44:272][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Cauldron.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Crate_Closed.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Crate_Open.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Fence_Var01.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Fence_Var02.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Fence_Var03.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Fence_Var04.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Fish.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Flower_Var01.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Flower_Var02.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Flower_Var03.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Flower_Var04.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Flower_Var05.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Flower_Var06.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_GrassPatch_Var01.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_GrassPatch_Var02.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_GrassPatch_Var03.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Hay_Small_Var01.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Hay_Small_Var02.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_Hay_Stack.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_House_Var01.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra01.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra01_LightsOn.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra02.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra02_LightsOn.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra03.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra04.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra05.uasset'
+[2021.08.08-13.34.44:273][396]SourceControl: rm 'Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra06.uasset'
+[2021.08.08-13.34.47:184][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.08-13.34.47:204][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.08-13.34.47:666][543]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Level151F6E19B4C030788049519A47BA5F392.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1.umap'
+[2021.08.08-13.34.47:768][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1_BuiltData" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1_BuiltData.uasset" SILENT=true
+[2021.08.08-13.34.47:831][543]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Level1_BuiltDataFBCD4E0A41FA21273D474B816EFF5175.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1_BuiltData.uasset'
+[2021.08.08-13.34.47:842][543]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.08-13.34.47:842][543]LogContentValidation: Display: Validating World /Game/levels/Level1.level1
+[2021.08.08-13.34.47:842][543]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/levels/Level1_BuiltData.level1_BuiltData
