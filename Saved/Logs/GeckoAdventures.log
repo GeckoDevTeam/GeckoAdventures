@@ -1096,3 +1096,281 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.08-11.26.39:109][479]SourceControl:  2 files changed, 1 insertion(+), 1 deletion(-)
 [2021.08.08-11.26.39:109][479]SourceControl:  rewrite Content/levels/MainMenu.umap (95%)
 [2021.08.08-11.26.39:115][479]SourceControl: Commited [master 048c8e5] Upgraded Gecko to 4.26.
+[2021.08.08-11.29.59:980][207]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.08.08-11.29.59:986][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.08-11.29.59:986][207]PIE: New page: PIE session: Level1 (8. aug. 2021, 15:29:59)
+[2021.08.08-11.29.59:986][207]LogPlayLevel: Creating play world package: /Game/levels/UEDPIE_0_Level1
+[2021.08.08-11.30.00:004][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017166s)
+[2021.08.08-11.30.00:005][207]LogAIModule: Creating AISystem for world level1
+[2021.08.08-11.30.00:005][207]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2021.08.08-11.30.00:005][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/Level1.level1 to /Game/levels/UEDPIE_0_Level1.level1 (0.018557s)
+[2021.08.08-11.30.00:011][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.08.08-11.30.00:012][207]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.08.08-11.30.00:012][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.08-11.30.00:012][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.08-11.30.00:012][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.08-11.30.00:012][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.08-11.30.00:012][207]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.08-11.30.00:012][207]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.08-11.30.00:012][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.08-11.30.00:012][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.08-11.30.00:013][207]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.08-11.30.00:013][207]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.08-11.30.00:016][207]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.08-11.30.00:016][207]LogAudioMixer: Display: 1: FrontRight
+[2021.08.08-11.30.00:016][207]LogAudioMixer: Display: 2: FrontCenter
+[2021.08.08-11.30.00:016][207]LogAudioMixer: Display: 3: LowFrequency
+[2021.08.08-11.30.00:016][207]LogAudioMixer: Display: 4: BackLeft
+[2021.08.08-11.30.00:016][207]LogAudioMixer: Display: 5: BackRight
+[2021.08.08-11.30.00:016][207]LogAudioMixer: Display: 6: SideLeft
+[2021.08.08-11.30.00:016][207]LogAudioMixer: Display: 7: SideRight
+[2021.08.08-11.30.00:030][207]LogAudioMixer: Display: Using Audio Device Høyttalere (2- Logitech G733 Gaming Headset)
+[2021.08.08-11.30.00:030][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.08-11.30.00:030][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.08-11.30.00:030][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.08-11.30.00:031][207]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.08-11.30.00:031][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.08-11.30.00:031][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.08.08-11.30.00:047][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.08-11.30.00:047][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.08-11.30.00:047][207]LogInit: FAudioDevice initialized.
+[2021.08.08-11.30.00:047][207]LogAudio: Display: Audio Device (ID: 3) registered with world 'level1'.
+[2021.08.08-11.30.00:074][207]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.08-11.30.00:074][207]LogLoad: Game class is 'GeckoGame_C'
+[2021.08.08-11.30.00:076][207]LogWorld: Bringing World /Game/levels/UEDPIE_0_Level1.level1 up for play (max tick rate 60) at 2021.08.08-13.30.00
+[2021.08.08-11.30.00:077][207]LogWorld: Bringing up level for play took: 0.001689
+[2021.08.08-11.30.00:077][207]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.08.08-11.30.00:083][207]PIE: Server logged in
+[2021.08.08-11.30.00:085][207]PIE: Play in editor total start time 0,1 seconds.
+[2021.08.08-11.30.07:553][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.08-11.30.07:553][650]LogWorld: BeginTearingDown for /Game/levels/UEDPIE_0_Level1
+[2021.08.08-11.30.07:553][650]LogSlate: Window 'Geckos Adventures Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.08.08-11.30.07:560][650]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-11.30.07:561][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-11.30.07:568][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.08-11.30.07:570][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.08-11.30.07:575][650]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.08-11.30.07:575][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-11.30.07:576][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.08-11.30.07:595][650]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.08.08-11.30.07:624][652]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.08.08-11.30.50:637][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.08.08-11.30.50:682][252]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Level1_Auto13DE3B6B34D4E5DF37C0B58B8881672C4.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Autosaves/Game/levels/Level1_Auto1.umap'
+[2021.08.08-11.30.50:683][252]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/levels/Level1' took 0.051
+[2021.08.08-11.30.50:683][252]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.051
+[2021.08.08-11.31.15:044][422]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Per-Arne D.K\Downloads\Gem_01.fbx)
+[2021.08.08-11.31.15:063][422]LogFbx: Loading FBX Scene from C:\Users\Per-Arne D.K\Downloads\Gem_01.fbx
+[2021.08.08-11.31.15:076][422]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.08-11.31.21:139][422]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.08-11.31.21:158][422]LogFbx: Display: Triangulating static mesh Gem
+[2021.08.08-11.31.21:164][422]LogStaticMesh: Building static mesh Gem_01...
+[2021.08.08-11.31.21:168][422]LogStaticMesh: Built static mesh [0.00s] /Game/gems/Gem_01.Gem_01
+[2021.08.08-11.31.21:175][422]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.08-11.31.23:251][531]LogSlate: Window 'Message Log' being destroyed
+[2021.08.08-11.31.23:256][531]LogSlate: Window 'Message Log' being destroyed
+[2021.08.08-11.31.35:905][835]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Per-Arne D.K\Downloads\Gem_02.fbx)
+[2021.08.08-11.31.35:915][835]LogFbx: Loading FBX Scene from C:\Users\Per-Arne D.K\Downloads\Gem_02.fbx
+[2021.08.08-11.31.35:923][835]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.08-11.31.37:325][835]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.08-11.31.37:335][835]LogFbx: Display: Triangulating static mesh Diamond
+[2021.08.08-11.31.37:336][835]LogStaticMesh: Building static mesh Gem_02_Diamond...
+[2021.08.08-11.31.37:340][835]LogStaticMesh: Built static mesh [0.00s] /Game/gems/Gem_02_Diamond.Gem_02_Diamond
+[2021.08.08-11.31.37:345][835]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.08-11.31.37:345][835]FBXImport: Error: Mesh name: [Gem_02_Gem] part name: [Gem]  could not be created because all of its polygons are degenerate. 
+[2021.08.08-11.31.39:573][963]LogSlate: Window 'Message Log' being destroyed
+[2021.08.08-11.31.39:576][963]LogSlate: Window 'Message Log' being destroyed
+[2021.08.08-11.33.10:925][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.10:926][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/Per-Arne D.K/Documents/GeckoAdventures 4.26'
+[2021.08.08-11.33.11:102][768]EditorErrors: Warning: No assets to check in!
+[2021.08.08-11.33.17:044][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.08-11.33.17:050][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.08-11.33.17:095][114]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Level1909473914065A90A6B6CEC85DC0E54D8.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1.umap'
+[2021.08.08-11.33.17:182][114]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/levels/Level1_BuiltData" FILE="../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1_BuiltData.uasset" SILENT=true
+[2021.08.08-11.33.17:249][114]LogSavePackage: Moving '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Saved/Level1_BuiltData01B244074E179CF4B10B48B888E37925.tmp' to '../../../../../../Users/Per-Arne D.K/Documents/GeckoAdventures 4.26/Content/levels/Level1_BuiltData.uasset'
+[2021.08.08-11.33.17:257][114]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.08-11.33.17:257][114]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/levels/Level1_BuiltData.level1_BuiltData
+[2021.08.08-11.33.17:257][114]LogContentValidation: Display: Validating World /Game/levels/Level1.level1
+[2021.08.08-11.33.22:354][418]MapCheck: New page: Map Check
+[2021.08.08-11.33.22:374][418]Cmd: MAP REBUILD ALLVISIBLE
+[2021.08.08-11.33.22:375][418]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.08.08-11.33.22:447][418]LogWorld: UWorld::CleanupWorld for level1, bSessionEnded=true, bCleanupResources=false
+[2021.08.08-11.33.22:491][418]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.08.08-11.33.22:491][418]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.08.08-11.33.22:491][418]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.08.08-11.33.22:523][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.08.08-11.33.22:530][418]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.08-11.33.22:537][418]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.08.08-11.33.22:579][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.08.08-11.33.22:579][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.08.08-11.33.22:579][418]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2021.08.08-11.33.22:579][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 47
+[2021.08.08-11.33.22:579][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 46
+[2021.08.08-11.33.22:579][418]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 45
+[2021.08.08-11.33.22:579][418]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2021.08.08-11.33.22:579][418]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 43
+[2021.08.08-11.33.22:579][418]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.08-11.33.22:581][418]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 46
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 45
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 44
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 42
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 41
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 40
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 38
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 36
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 35
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 33
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 32
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 31
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 30
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 26
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 24
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 23
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 19
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 13
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.08.08-11.33.27:336][418]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.08.08-11.33.27:337][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.08.08-11.33.27:337][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.08.08-11.33.27:337][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.08.08-11.33.27:337][418]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.08.08-11.33.27:337][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.08.08-11.33.27:337][418]TextureStreamingBuild: Display: Compiling optional shaders took 4.811 seconds.
+[2021.08.08-11.33.27:382][418]LogLevel: Display: Export Material TexCoord Scales took 0.045 seconds.
+[2021.08.08-11.33.27:383][418]TextureStreamingBuild: Display: Build Texture Streaming took 0.001 seconds.
+[2021.08.08-11.33.27:389][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.08-11.33.27:395][418]LightingResults: New page: Lighting Build - 8. aug. 2021, 15:33:27
+[2021.08.08-11.33.27:439][418]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.08.08-11.33.27:482][418]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.08.08-11.33.27:495][418]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.08.08-11.33.28:024][418]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.08.08-11.33.28:024][418]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9172
+[2021.08.08-11.33.39:457][418]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.08.08-11.33.39:458][418]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.08.08-11.33.39:458][418]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.08.08-11.33.39:458][418]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.08.08-11.33.39:459][418]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.08.08-11.33.39:459][418]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.08.08-11.33.39:635][418]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.08.08-11.33.39:636][418]MapCheck: New page: Level1 - 8. aug. 2021, 15:33:39
+[2021.08.08-11.33.39:637][418]MapCheck: Warning: Floor Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.08.08-11.33.39:638][418]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 2,13ms to complete.
+[2021.08.08-11.33.39:640][418]LogEditorBuildUtils: Build time 0:17
+[2021.08.08-11.33.39:682][418]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ground_Inst, compiling. 
+[2021.08.08-11.33.39:686][418]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ground_Inst, compiling. 
+[2021.08.08-11.33.39:693][418]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.08.08-11.33.39:693][418]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.08.08-11.33.39:693][418]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.08.08-11.33.39:693][418]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.08.08-11.33.39:693][418]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.08.08-11.33.39:700][418]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2021.08.08-11.33.39:703][418]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.08.08-11.33.39:703][418]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.08.08-11.33.39:703][418]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.08.08-11.33.39:703][418]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.08.08-11.33.40:573][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.08-11.33.42:423][482]Job is a success!
+[2021.08.08-11.33.42:521][483]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.015s
+[2021.08.08-11.33.42:521][483]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.08.08-11.33.42:521][483]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.08.08-11.33.42:521][483]LogVolumetricLightmapImport:      Bricks at depth
+[2021.08.08-11.33.42:521][483]LogVolumetricLightmapImport:          0: 5.9% covering 100.0% of volume
+[2021.08.08-11.33.42:521][483]LogVolumetricLightmapImport:          1: 17.6% covering 4.7% of volume
+[2021.08.08-11.33.42:521][483]LogVolumetricLightmapImport:          2: 76.5% covering 0.3% of volume
+[2021.08.08-11.33.42:521][483]LogVolumetricLightmapImport:      Bricks in each level
+[2021.08.08-11.33.42:521][483]LogVolumetricLightmapImport:          level1 			 17 bricks 	 100.0% (Persistent Level)
+[2021.08.08-11.33.42:744][483]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2021.08.08-11.33.42:744][483]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2021.08.08-11.33.42:744][483]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2021.08.08-11.33.42:744][483]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2021.08.08-11.33.42:744][483]Lightmass on DESKTOP-HG8LV94: 1.42 sec total, 121 ms importing, 16 ms setup, 93 ms photons, 1.04 sec processing, 0 ms extra exporting [292/292 mappings]. Threads: 11.4 sec total, 902 ms processing.
+[2021.08.08-11.33.42:757][483]LogStaticLightingSystem: level1_BuiltData storing lightmap data for 3 meshes in 1 LightmapResourceClusters (3.0 Meshes per cluster).
+[2021.08.08-11.33.42:766][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.08.08-11.33.42:802][483]LogStaticLightingSystem: Illumination: 15.3 sec (32 ms encoding lightmaps, 8 ms encoding shadowmaps)
+[2021.08.08-11.33.42:802][483]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.0 MB streaming, 0.2 MB non-streaming), 2 textures
+[2021.08.08-11.33.42:802][483]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.08.08-11.33.43:464][483]DumpUnbuiltLightIteractions
+[2021.08.08-11.33.43:464][483]Lights with unbuilt interactions: 0
+[2021.08.08-11.33.43:464][483]
+[2021.08.08-11.33.43:464][483]Primitives with unbuilt interactions: 0
+[2021.08.08-11.33.43:560][483]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.08.08-11.33.43:597][484]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.08.08-11.33.43:597][484]MapCheck: New page: Level1 - 8. aug. 2021, 15:33:43
+[2021.08.08-11.33.43:598][484]MapCheck: Warning: Floor Large actor receives a pre-shadow and will cause an extreme performance hit unless bCastDynamicShadow is set to false. 
+[2021.08.08-11.33.43:598][484]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,717ms to complete.
+[2021.08.08-11.33.45:297][579]LogSlate: Window 'Message Log' being destroyed
+[2021.08.08-11.33.45:302][579]LogSlate: Window 'Message Log' being destroyed
+[2021.08.08-11.33.51:383][943]LogActorFactory: Actor Factory created Gem_02_Diamond
+[2021.08.08-11.33.51:887][973]LogActorFactory: Actor Factory created Gem_02_Diamond
+[2021.08.08-11.34.26:187][ 28]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/levels/Level1.level1:PersistentLevel.Gem_02_Diamond_2.StaticMeshComponent0)
+[2021.08.08-11.34.26:621][ 54]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/levels/Level1.level1:PersistentLevel.Gem_02_Diamond_2.StaticMeshComponent0)
+[2021.08.08-11.34.27:553][110]Cmd: DELETE
+[2021.08.08-11.34.27:553][110]Cmd: ACTOR DELETE
+[2021.08.08-11.34.27:557][110]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.08-11.34.27:562][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.08.08-11.34.27:564][110]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.08.08-11.34.33:585][468]LogActorFactory: Actor Factory created Gem_01
+[2021.08.08-11.34.33:874][485]LogActorFactory: Actor Factory created Gem_01
+[2021.08.08-11.34.37:842][722]Cmd: DELETE
+[2021.08.08-11.34.37:842][722]Cmd: ACTOR DELETE
+[2021.08.08-11.34.37:845][722]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.08.08-11.34.37:851][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.08.08-11.34.37:852][722]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.08.08-11.34.57:681][964]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Per-Arne D.K\Downloads\Gem_03.fbx)
+[2021.08.08-11.34.57:693][964]LogFbx: Loading FBX Scene from C:\Users\Per-Arne D.K\Downloads\Gem_03.fbx
+[2021.08.08-11.34.57:701][964]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.08-11.34.58:639][964]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.08-11.34.58:651][964]LogFbx: Display: Triangulating static mesh dobj
+[2021.08.08-11.34.58:656][964]LogStaticMesh: Building static mesh Gem_03_dobj...
+[2021.08.08-11.34.58:660][964]LogStaticMesh: Built static mesh [0.01s] /Game/gems/Gem_03_dobj.Gem_03_dobj
+[2021.08.08-11.34.58:666][964]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.08-11.34.58:666][964]FBXImport: Error: Mesh name: [Gem_03_Diamond] part name: [Diamond]  could not be created because all of its polygons are degenerate. 
+[2021.08.08-11.34.58:666][964]FBXImport: Error: Mesh name: [Gem_03_Gem] part name: [Gem]  could not be created because all of its polygons are degenerate. 
+[2021.08.08-11.35.00:265][ 52]LogSlate: Window 'Message Log' being destroyed
+[2021.08.08-11.35.00:269][ 52]LogSlate: Window 'Message Log' being destroyed
+[2021.08.08-11.35.10:176][645]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/gems/Gem_03_dobj.Gem_03_dobj
+[2021.08.08-11.35.10:828][645]LogSlate: Took 0.000759 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.08-11.35.20:408][208]LogSlate: Window 'Gem_03_dobj' being destroyed
+[2021.08.08-11.35.20:416][208]LogSlate: Window 'Gem_03_dobj' being destroyed
+[2021.08.08-11.35.20:418][208]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.08-11.35.20:418][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
